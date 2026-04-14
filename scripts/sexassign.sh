@@ -1,6 +1,5 @@
 #!/bin/bash -l
 
-#SBATCH -A snic2022-5-561
 #SBATCH -p core
 #SBATCH -n 1
 #SBATCH -t 05:00:00

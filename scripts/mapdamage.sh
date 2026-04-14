@@ -1,6 +1,5 @@
 #!/bin/bash -l
 
-#SBATCH -A uppmax2025-2-463
 #SBATCH -n 20
 #SBATCH -p pelle
 #SBATCH -t 3:00:00

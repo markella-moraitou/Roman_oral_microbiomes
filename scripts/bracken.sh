@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A snic2021-5-477
+
 #SBATCH -p core
 #SBATCH -n 4
 #SBATCH --mem-per-cpu 2GB

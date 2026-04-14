@@ -1,13 +1,10 @@
 #!/bin/bash
-#SBATCH -A snic2021-5-477
+
 #SBATCH -p node
 #SBATCH -N 1
 #SBATCH -t 02:00:00
 #SBATCH -J kraken
-#SBATCH -M snowy
 #SBATCH --array=1-20%20
-#SBATCH -o /proj/sllstore2017021/nobackup/MARTINA/logs/slurm-%A_%a.out
-#SBATCH --mail-type=FAIL
 
 # Microbial assignments using kraken
 # genbank nt database

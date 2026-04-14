@@ -1,11 +1,10 @@
 #!/bin/bash -l
-#SBATCH -A snic2022-5-255
+
 #SBATCH -p core
 #SBATCH -n 8 
 #SBATCH --array=2,3,11,12%4
 #SBATCH -t 04:00:00
 #SBATCH -J demux
-#SBATCH --mail-type=FAIL
 
 module load bioinfo-tools AdapterRemoval
 

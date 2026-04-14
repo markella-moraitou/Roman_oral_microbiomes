@@ -12,7 +12,7 @@
 [ ! -z $SLURM_SUBMIT_DIR ] && cd $SLURM_SUBMIT_DIR
 
 conda activate base
-module load pigz BWA mapDamage
+module load pigz BWA mapDamage SAMtools
 
 echo $SLURM_JOB_NAME
 echo $(module list)
@@ -37,10 +37,12 @@ mkdir -p $OUTDIR/ref_genomes
 
 tail -n+2 ../output/mapdamage_taxa_samples.csv | while IFS=, read -r taxid species _ _
 do
-  if [ ! -f $(find . -name "*.fna" | head -1 ) ]
+  cd $OUTDIR/ref_genomes
+  new_species=$(echo $species | tr " " _)
+  if grep "^${taxid}," genome_summary.csv
   then
-      cd $OUTDIR/ref_genomes
-      new_species=$(echo $species | tr " " _)
+      echo "Have already searched for genome for $species"
+  else
       echo "Downloading reference genome for $species"
       datasets download genome taxon $taxid --reference --filename ${new_species}_${taxid}.zip
       type="reference"
@@ -56,8 +58,9 @@ do
       mv $genome ${new_species}_${taxid}_$(basename ${genome})
       rm -rf ncbi_dataset ${new_species}_${taxid}.zip md5sum.txt README.md
       echo "$taxid,${species},$(basename ${genome}),${type}" >> genome_summary.csv
-      cd -
+      bwa index -a bwtsw ${new_species}_${taxid}_$(basename ${genome})
   fi
+  cd -
 done
 
 echo taxid,species,sample,mapped_reads > $OUTDIR/mapped_reads.csv
@@ -74,18 +77,18 @@ do
     seqin=${sample}_adapterremoval.fa.gz
     ## Index and map
     ref=$(find $OUTDIR/ref_genomes -name ${new_species}_${taxid}*.fna)
-    alignment=$OUTDIR/${sample}_${new_species}_alignment.sam
+    alignment=$OUTDIR/${sample}_${new_species}_alignment.sai
     if [ ! -f $ref ]
     then
         echo "Genome not found for $species. Skipping..."
         continue
     fi
-    #bwa index -a bwtsw ${ref}
-    bwa mem -t $processes ${ref} ${seqin} > $alignment
-    samtools view $alignment -F 4 -@ 10 -O bam > ${alignment%.sam}.bam
-    nreads=$(samtools view -c ${alignment%.sam}.bam )
+    bwa aln -n 0.04 -k 2 -l 1024 -o 2 -t ${processes} ${ref} ${seqin} > ${alignment}
+    # Convert to BAM and filter
+    bwa samse -r "@RG\\tID:${sample}_${new_species}\\tSM:${sample}\\tPL:illumina" ${ref%.gz} ${alignment} ${seqin} | samtools view - -F 4 -@ ${processes} -O bam | samtools sort - -@ ${processes} -O bam > ${alignment%.sai}.bam
+    nreads=$(samtools view -c ${alignment%.sai}.bam )
     echo "$taxid,$species,$sample,$nreads" >> $OUTDIR/mapped_reads.csv
     ## Run mapdamage
-    mapDamage -i ${alignment%.sam}.bam -r ${ref} -d mapdamage_${sample}_${new_species}
+    mapDamage -i ${alignment%.sai}.bam -r ${ref} -d mapdamage_${sample}_${new_species}
     cd -
 done

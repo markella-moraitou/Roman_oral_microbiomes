@@ -1,0 +1,1954 @@
+taxon,species,in.homd,in.core.hominid,in.contam.list,not.contaminant,threshold,sufficient_abundance,not.abundant.in.soil,taxon_category,Status
+1003110,Micromonospora maris,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1008,Saprospira grandis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+101571,Burkholderia ubonensis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1016987,Novosphingobium sp. THN1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+102116,Stanieria cyanosphaera,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1028381,Bacillaceae bacterium JMAK1,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1028414,Psychrobacter sp. DAB_AL32B,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+102862,Proteus penneri,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1028752,Shewanella aestuarii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1033846,Marinobacter adhaerens,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1033922,Rhodococcus sp. WB1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+103690,Nostoc sp. PCC 7120 = FACHB-418,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+103816,Rhodococcus pyridinivorans,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+104087,Pseudomonas frederiksbergensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1040979,Cupriavidus neocaledonicus,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+104102,Acetobacter tropicalis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1045808,Rhodococcus sp. YL-1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+104628,Helicobacter suis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1048396,Halopenitus persicus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1049,Allochromatium vinosum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1049583,Kocuria indica,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+105219,Ralstonia mannitolilytica,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1054034,Arcobacter cloacae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+105560,Methylibium petroleiphilum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+106,Runella slithyformis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1061,Rhodobacter capsulatus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1063,Cereibacter sphaeroides,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1064539,Azospirillum baldaniorum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+106590,Cupriavidus necator,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+106592,Ensifer adhaerens,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+106654,Acinetobacter nosocomialis,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,TRUE,In contam list,Decontam high certainty
+1074311,Vibrio alfacsensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1075,Fuscovulum blasticum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1076588,Thiolapillus brandeum,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1076596,Acetobacter persici,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1077935,Paracoccus zhejiangensis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+10834,Wheat dwarf virus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1085,Rhodospirillum rubrum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+108980,Acinetobacter ursingii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+108981,Acinetobacter schindleri,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1092,Chlorobium limicola,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+109266,Anabaenopsis circularis,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+109328,Leptotrichia trevisanii,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+1096856,Pseudonocardia sp. EC080619-01,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1096868,Pseudonocardia sp. EC080625-04,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1096935,Veillonella sp. OK1,TRUE,TRUE,FALSE,FALSE,0.9,FALSE,NA,In oral list,Decontam & Abundance
+1097668,Burkholderia sp. YI23,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1102,Prosthecochloris aestuarii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+110321,Sinorhizobium medicae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+110937,Rathayibacter festucae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1115757,Leptolyngbya sp. BL0902,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+111769,Thiothrix unzii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+111770,Thiothrix fructosivorans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+111831,Defluviicoccus vanus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1118963,Arthrobacter sp. Rue61a,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1120045,Rhizobium grahamii,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+1121358,Corynebacterium doosanense,TRUE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1125847,Pseudorhizobium banfieldiae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1134687,Klebsiella michiganensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1137095,Scytonema sp. HK-05,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1138189,Rhizobium bangladeshense,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1138190,Rhizobium binae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1138194,Rhizobium lentis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1141883,Massilia putida,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+114616,Methylobacterium nodulans,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil
+1149133,Pseudomonas furukawaii,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1155384,Glutamicibacter sp. ZJUTW,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1163710,Cronobacter condimenti,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1164,Trichormus azollae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1165,Anabaena cylindrica,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1166,Dolichospermum flos-aquae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1166950,Candidatus Thiodictyon syntrophicum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1169025,Streptomyces pratensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1170710,Delftia sp. KV29,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1170711,Streptomyces sp. W75,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+117207,Sphingopyxis alaskensis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1173026,Gloeocapsa sp. PCC 7428,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1173027,Allocoleopsis franciscana,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1173032,Chamaesiphon minutus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1173263,Synechococcus sp. PCC 7502,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1175444,Methanocella conradii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+117567,Mycolicibacterium frederiksbergense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1176257,Stutzerimonas zhaodongensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1176646,Sphingomonas daechungensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1176649,Agrobacterium fabrum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1177213,Candidatus Vallotia tarda,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1177712,Komagataeibacter medellinensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1183377,Pyrococcus sp. ST04,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1183412,Agrobacterium deltaense,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1183413,Agrobacterium salinitolerans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1184,Leptolyngbya boryana,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1188228,Gloeomargarita lithophora,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1190415,Pseudomonas asturiensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1190813,Pseudoalteromonas shioyasakiensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+119219,Cupriavidus metallidurans,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+1195166,Clostridium sp. MT351,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+1197,Microchaete diplosiphon,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+120,Planctopirus limnophila,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+120107,Sphingobium cloacae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1207504,Burkholderia pseudomultivorans,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1208324,Celeribacter indicus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+120959,Mycobacterium kubicae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1211322,Deinococcus metallilatus,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+121277,Pyrobaculum arsenaticum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+121292,Pseudarthrobacter sulfonivorans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+121428,Sphingobium xenophagum,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+121719,Pannonibacter phragmitetus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1217908,Octadecabacter antarcticus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1226968,Azospirillum humicireducens,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+122866,Arthrobacter keyseri,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1229727,Salipiger profundus,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1229909,Candidatus Nitrosopumilus sediminis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1232667,Comamonas sp. 7D-2,TRUE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1238,Piscirickettsia salmonis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+123824,Frederiksenia canicola,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1239307,Sodalis praecaptivus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1244,Leuconostoc gelidum,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1244531,Campylobacter iguaniorum,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+1250539,Salipiger abyssi,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1252,Leuconostoc carnosum,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1254,Pediococcus acidilactici,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1255,Pediococcus pentosaceus,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1259973,Klebsiella electrica,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1260,Finegoldia magna,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1261031,Nostoc sp. 'Peltigera membranacea cyanobiont' N6,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1262452,Streptomyces sp. 769,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1264,Ruminococcus albus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1265601,Streptomyces sp. PAMC 26508,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1267766,Croceibacterium atlanticum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1267768,Brevirhabdus pacifica,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1270,Micrococcus luteus,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1274,Dermacoccus nishinomiyaensis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1279031,Agrobacterium sp. 33MFTa1.1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+128,Isosphaera pallida,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1280,Staphylococcus aureus,TRUE,TRUE,TRUE,FALSE,0.05,TRUE,TRUE,In both,Decontam low certainty
+1282,Staphylococcus epidermidis,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,FALSE,In both,Decontam & Soil
+1283,Staphylococcus haemolyticus,TRUE,TRUE,TRUE,FALSE,0.3,FALSE,NA,In both,Decontam & Abundance
+1284,Staphylococcus hyicus,TRUE,TRUE,TRUE,FALSE,0.9,TRUE,TRUE,In both,Decontam high certainty
+128574,Paenibacillus brasilensis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1286,Staphylococcus simulans,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+1286181,Mycolicibacterium arabiense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+128780,Stenotrophomonas acidaminiphila,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+128785,Pseudoxanthomonas mexicana,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+1288,Staphylococcus xylosus,TRUE,TRUE,TRUE,FALSE,0.3,FALSE,NA,In both,Decontam & Abundance
+1290,Staphylococcus hominis,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+129338,Geobacillus subterraneus,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+1295392,Photobacterium gaetbulicola,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1296,Mammaliicoccus sciuri,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1296540,Paucilactobacillus nenjiangensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1296669,Aquabacterium olei,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+1299,Deinococcus radiodurans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+129921,Amycolatopsis keratiniphila,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1302,Streptococcus gordonii,TRUE,TRUE,TRUE,TRUE,0.9,TRUE,TRUE,In both,Passing
+1302659,Planococcus versutus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1303,Streptococcus oralis,TRUE,TRUE,TRUE,FALSE,0.05,TRUE,TRUE,In both,Decontam low certainty
+1304,Streptococcus salivarius,TRUE,TRUE,TRUE,TRUE,0.9,TRUE,TRUE,In both,Passing
+1306274,Nostoc flagelliforme,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1307,Streptococcus suis,TRUE,TRUE,TRUE,FALSE,0.1,TRUE,TRUE,In both,Decontam low certainty
+1308,Streptococcus thermophilus,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+1309,Streptococcus mutans,TRUE,TRUE,TRUE,FALSE,0.9,FALSE,NA,In both,Decontam & Abundance
+1310165,Ralstonia pseudosolanacearum,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1311,Streptococcus agalactiae,TRUE,TRUE,TRUE,TRUE,0.9,TRUE,TRUE,In both,Passing
+1312183,Rhizobium jaguaris,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1313,Streptococcus pneumoniae,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+1314,Streptococcus pyogenes,TRUE,TRUE,TRUE,TRUE,0.9,TRUE,FALSE,In both,Soil
+131568,Kineococcus radiotolerans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1315974,Sphingobium sp. TKS,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1316593,Capnocytophaga sp. oral taxon 864,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+1316596,Capnocytophaga sp. oral taxon 878,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+1316941,Archaeoglobus sulfaticallidus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1318,Streptococcus parasanguinis,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+1325090,Bradyrhizobium guangdongense,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+1325115,Bradyrhizobium guangxiense,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1327635,Sphingomonas psychrotolerans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1328,Streptococcus anginosus,TRUE,TRUE,TRUE,FALSE,0.3,FALSE,NA,In both,Decontam & Abundance
+1329,Streptococcus canis,TRUE,TRUE,TRUE,FALSE,0.3,FALSE,NA,In both,Decontam & Abundance
+132919,Rhodococcus jostii,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1329816,Enterobacter sp. MGH 7,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1329969,Pseudomonas sp. GLE121,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1331258,Bordetella pseudohinzii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1332080,Sphingobium baderi,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1334,Streptococcus dysgalactiae,TRUE,TRUE,TRUE,FALSE,0.1,TRUE,TRUE,In both,Decontam low certainty
+1335,Streptococcus equinus,TRUE,TRUE,TRUE,FALSE,0.1,TRUE,TRUE,In both,Decontam low certainty
+1335048,Frigidibacter mobilis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1335061,Pseudorhizobium flavum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+133539,Nitrosococcus halophilus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1337936,Calothrix sp. 336/3,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+133924,Leisingera methylohalidivorans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+134,Methylocystis parvus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+134375,Achromobacter sp.,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+134536,Paraburkholderia caledonica,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+134537,Paraburkholderia fungorum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1348613,Vallitalea pronyensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1348774,Croceicoccus naphthovorans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1349819,Aureimonas sp. AU20,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1351,Enterococcus faecalis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1352,Enterococcus faecium,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+1353889,Achromobacter pestifer,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1353976,Neochlamydia sp. S13,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1354,Enterococcus hirae,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+135487,Nocardia cyriacigeorgica,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1355477,Bradyrhizobium diazoefficiens,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1356852,Hymenobacter sp. APR13,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+135719,Sphingobium amiense,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+135740,Paracoccus kondratievae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+135742,Paracoccus methylutens,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1358,Lactococcus lactis,TRUE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1359,Lactococcus cremoris,TRUE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+136098,Rhizobium sp. TCK,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1363,Lactococcus garvieae,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1364,Lactococcus piscium,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1366,Lactococcus raffinolactis,TRUE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+136609,Leuconostoc kimchii,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1368430,Rhizobium rosettiformans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+13689,Sphingomonas paucimobilis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+13690,Sphingobium yanoikuyae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+137591,Weissella cibaria,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+13769,Natrialba magadii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+137722,Azospirillum sp. B510,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+138072,Candidatus Hamiltonella defensa,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+138074,Serratia symbiotica,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1381597,Sphingomonas sp. ERG5,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1385664,Hymenobacter sp. DG25B,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1385715,Hymenobacter qilianensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1387353,Paludisphaera borealis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1389005,Sulfitobacter sp. SK012,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1389011,Sulfitobacter sp. SK025,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1389192,Cupriavidus sp. USMAHM13,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1389713,Mycobacterium paragordonae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+139,Borreliella burgdorferi,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1390395,Sphingomonas sp. LK11,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1392,Bacillus anthracis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1396,Bacillus cereus,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1396826,Leisingera aquaemixtae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1397,Niallia circulans,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+1397703,Brasilonema sennae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+140,Borrelia hermsii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+140098,Caballeronia sp. NK8,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1401,Paenibacillus lautus,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1402,Bacillus licheniformis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1402135,Pseudosulfitobacter pseudonitzschiae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1402861,Priestia filamentosa,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1404,Priestia megaterium,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1404244,Corynebacterium glyciniphilum,TRUE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1405,Bacillus mycoides,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1406,Paenibacillus polymyxa,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+1406197,Brevibacterium sp. Ap13,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1407499,Halobacterium hubeiense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1408191,Corynebacterium deserti,TRUE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1409,Bacillus sp. (in: firmicutes),FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+141,Borrelia parkeri,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+1411316,Pedobacter sp.,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1411902,Pacificitalea manganoxidans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1420917,Marinobacter salarius,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1422,Geobacillus stearothermophilus,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1423,Bacillus subtilis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+1424294,Geosporobacter ferrireducens,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1426,Parageobacillus thermoglucosidasius,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+1428,Bacillus thuringiensis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+142864,Cylindrospermum stagnale,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1428684,Exiguobacterium alkaliphilum,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+143,Borrelia anserina,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1430884,Methylibium sp. T29,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1435607,Rhizobium sp. Khangiran2,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1436084,Streptomyces sp. F12,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1436085,Streptomyces sp. F8,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1437443,Methylibium sp. T29-B,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1437453,Streptomyces leeuwenhoekii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+144,Borrelia coriaceae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1442032,Streptomyces dangxiongensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1444684,Nitrosomonas stercoris,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+1446467,Hymenobacter swuensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1449778,Achromobacter sp. LM16,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1449781,Ochrobactrum sp. LM19,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1449783,Pseudomonas sp. LM12,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1449788,Sinorhizobium sp. LM21,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+145262,Methanothermobacter thermautotrophicus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1457250,Halapricum salinum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1458355,Mixta theicola,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1458426,Serpentinimonas maccroryi,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1463165,Klebsiella quasipneumoniae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1464,Paenibacillus larvae,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+146474,Acetobacter orientalis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1465,Brevibacillus laterosporus,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+146919,Salinibacter ruber,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+146922,Streptomyces griseofuscus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+146923,Streptomyces parvulus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1473112,Paenibacillus guangzhouensis,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1473598,Paludibaculum fermentans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+147645,Paracoccus yeei,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+1476754,Streptomyces sp. 604F,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+147709,Carnobacterium inhibens,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1477518,Arthrobacter sp. D5-1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1478,Peribacillus simplex,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1478019,Cupriavidus sp. KK10,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+147802,Lactobacillus iners,TRUE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1479,Bacillus smithii,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1482,Virgibacillus halodenitrificans,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1482074,Hartmannibacter diazotrophicus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1484109,Lichenicola cladoniae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1484116,Hymenobacter psoromatis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1484118,Hymenobacter sp. PAMC 26628,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1484158,Pantoea sp. PSNIH1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+148447,Paraburkholderia phymatum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1488,Clostridium acetobutylicum,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+148813,Sulfuricurvum kujiense,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1488356,Streptomyces sp. MBT27,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1490,Paraclostridium bifermentans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1491,Clostridium botulinum,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1492,Clostridium butyricum,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1493872,Chryseobacterium shandongense,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1495638,Streptomyces sp. M56,FALSE,FALSE,FALSE,FALSE,0.5,TRUE,TRUE,None,Decontam high certainty
+1496,Clostridioides difficile,FALSE,TRUE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+150026,Leifsonia shinshuensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1501,Clostridium pasteurianum,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+1501662,Streptococcus parasuis,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+1502,Clostridium perfringens,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1504981,Halomonas sp. KO116,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1505,Paraclostridium sordellii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1505907,Thermococcus eurythermalis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1508404,Jeotgalibacillus malaysiensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1509,Clostridium sporogenes,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1510468,Bacillus haikouensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1513,Clostridium tetani,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1514074,Pseudoalteromonas sp. NC201,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1515612,Sphingopyxis fribergensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1517554,Sphingomonas sp. HMP9,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+151783,Cupriavidus campinensis,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+1522758,Streptomyces sp. ADI95-16,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1523415,Sphingomonas sp. AAP5,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1524461,Pseudomonas sp. EGD-AKN5,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+152480,Burkholderia ambifaria,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1526658,Bosea vaviloviae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+152682,Sphingomonas melonis,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+152794,Corynebacterium efficiens,TRUE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1529068,Paracoccus tegillarcae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1532350,Metallosphaera tengchongensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+153493,Conchiformibius steedae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+153496,Kozakia baliensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1535768,Streptomyces lunaelactis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1537215,Pseudooceanicola algae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1537274,Janthinobacterium sp. HH102,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1538158,Rhizobium acidisoli,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1538159,Rhizobium hidalgonense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+153948,Nitrosomonas sp. AL212,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1541975,Aulosira laxa,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1543721,Sedimenticola thiotaurini,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1545044,Paracoccus sanguinis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1547487,Mycobacterium sp. ELW1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1547898,Haloplanus rubicundus,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1549850,Thioclava electrotropha,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1549855,Haematospirillum jordaniae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1549858,Sphingomonas taxi,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1550728,Blastomonas fulva,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1552759,Mycolicibacterium grossiae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+155322,Bacillus toyonensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+155537,Microscilla sp. PRE1,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+155863,Methanothermococcus okinawensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+155866,Weissella soli,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+155925,Nitrosospira sp. NRS527,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+155978,Acaryochloris marina,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1560345,Sphingomonas panacis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1561,Clostridium baratii,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1564138,Aliarcobacter faecis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1564506,Rhodovulum sp. P5,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1570939,Rhodococcus sp. 2G,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1571470,Rhizobium sp. ACO-34A,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+157592,Sterolibacterium denitrificans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+157687,Leptotrichia wadei,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+157688,Leptotrichia hofstadii,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+157691,Leptotrichia shahii,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+158,Treponema denticola,TRUE,TRUE,FALSE,FALSE,0.9,FALSE,NA,In oral list,Decontam & Abundance
+1580,Levilactobacillus brevis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1580596,Phaeobacter piscinae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1581,Lentilactobacillus buchneri,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1583098,Fusobacterium hwasookii,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+1583341,Pseudomonas cerasi,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1584,Lactobacillus delbrueckii,TRUE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+158500,Novosphingobium resinovorum,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+158822,Cedecea neteri,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+158836,Enterobacter hormaechei,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+158898,Gordonia westfalica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+158899,Collimonas fungivorans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+159,Brachyspira hyodysenteriae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1590,Lactiplantibacillus plantarum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1591409,Pseudohalocynthiibacter aestuariivivens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1592728,Haloarcula sp. CBA1115,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1596,Lactobacillus gasseri,TRUE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1597,Lacticaseibacillus paracasei,TRUE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1598,Limosilactobacillus reuteri,TRUE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1599,Latilactobacillus sakei,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1604,Lactobacillus amylovorus,TRUE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1604004,Halanaeroarchaeum sulfurireducens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1604335,Yersinia rochesterensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+160453,Enterococcus gilvus,FALSE,FALSE,TRUE,FALSE,0.1,FALSE,NA,In contam list,Decontam & Abundance
+160699,Agrobacterium larrymoorei,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1607,Loigolactobacillus bifermentans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+160791,Rhizorhabdus wittichii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+160808,Acidithiobacillus ferrivorans,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+1608473,Acinetobacter sp. NCu2D-2,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1608957,Euzebya pacifica,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1609758,Novosphingobium sp. P6W,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+1609966,Actibacterium sp. EMB200-NS6,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1609968,Methanobrevibacter sp. YE315,TRUE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1609977,Sphingomonas hengshuiensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1611770,Pseudomonas sp. MRSN 12121,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+161213,Micrococcus sp. 28,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1612173,Niveispirillum cyanobacteriorum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1612551,Actinoalloteichus sp. GBA129-24,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1613,Limosilactobacillus fermentum,TRUE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1616788,Paenibacillus bovis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1618022,Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont',FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+1619308,Cnuibacter physcomitrellae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1619313,Duffyella gerundensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1620421,Hoeflea sp. IMCC20628,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1622,Ligilactobacillus murinus,TRUE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1624,Ligilactobacillus salivarius,TRUE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+162426,Microbacterium hominis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1628059,Sphingomonas sp. JE1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+163003,Thermococcus cleftensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1633874,Acetobacter oryzifermentans,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1636152,Planctomyces sp. SH-PL62,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1636603,Acinetobacter sp. ACNIH1,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1636606,Aeromonas sp. ASNIH1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1636608,Aeromonas sp. ASNIH3,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1636609,Aeromonas sp. ASNIH4,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1637837,Burkholderia savannae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1637869,Burkholderia sp. MSMB0856,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1638,Listeria ivanovii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1638161,Aureimonas sp. AU12,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1639,Listeria monocytogenes,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1639133,Citrobacter portucalensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1640,Listeria seeligeri,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1641402,Pseudonocardia sp. HH130629-09,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1642,Listeria innocua,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+1642299,Streptomyces alfalfae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+164546,Cupriavidus taiwanensis,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+164608,Novosphingobium sp. KA1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1646377,Rouxiella badensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1646498,Acinetobacter sp. TTH0-4,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1647472,Grutrevirus GMA5,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1647473,Grutrevirus GRU3,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1647476,Tsukamurella phage TPA4,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1648404,Aurantiacibacter atlanticus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1649184,Streptomyces sp. CFMR 7,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+165179,Segatella copri,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1652495,Corynebacterium crudilactis,TRUE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1652545,Arthrobacter sp. YC-RL1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1658665,Mitsuaria sp. 7,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1660080,Campylobacter sp. RM16192,TRUE,TRUE,FALSE,FALSE,0.9,FALSE,NA,In oral list,Decontam & Abundance
+1661,Trueperella pyogenes,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+1663591,Magnetospirillum sp. XM-1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1664069,Bacillus glycinifermentans,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+1667,Arthrobacter sp.,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+167,Treponema succinifaciens,TRUE,TRUE,FALSE,FALSE,0.3,FALSE,NA,In oral list,Decontam & Abundance
+1670,Arthrobacter citreus,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1670455,Sulfodiicoccus acidiphilus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1670800,Aquibium oceanicum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1673428,Cuniculiplasma divulgatum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1674146,Borreliella mayonii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1674922,Labrenzia sp. CP4,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+1674923,Thermococcus sp. 2319x1,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1675689,Aeromonas sp. Ne-1,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+167642,Ilyobacter polytropus,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1680,Bifidobacterium adolescentis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1682113,Mycobacterium adipatum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+168471,Laribacter hongkongensis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1685,Bifidobacterium breve,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1688404,Pseudonocardia sp. EC080610-09,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1690815,Pseudonocardia sp. HH130630-07,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+169292,Corynebacterium aurimucosum,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+169430,Paraburkholderia hospita,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+169480,Rothia amarae,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+169765,Mycobacterium lacus,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1699624,Psychrobacter sp. P11G5,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1702325,Chelatococcus sp. CO-6,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1703250,Citrobacter sp. CRE-46,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1703969,Rhizobium sp. N324,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1704044,Arthrobacter sp. ERGS1:01,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+1705,Corynebacterium stationis,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1705310,Burkholderia sp. IDO3,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+170573,Staphylococcus pettenkoferi,TRUE,TRUE,TRUE,FALSE,0.9,TRUE,FALSE,In both,Decontam & Soil
+1707785,Massilia sp. WG5,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1710,Cellulosimicrobium cellulans,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1710539,Natrinema zhouii,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1712654,Thermococcus piezophilus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+171284,Mycoplasmopsis cynos,TRUE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+171437,Tistrella mobilis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1714373,Microbacterium sp. No. 7,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1717,Corynebacterium diphtheriae,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1718,Corynebacterium glutamicum,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1721,Corynebacterium callunae,TRUE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+1721091,Chryseobacterium sp. IHB B 17019,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1723645,Rhodococcus sp. 008,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1725411,Streptomyces sp. CdTB01,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1727196,Methylomonas sp. DH-1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1727214,Rhodococcus sp. H-CA8f,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+172827,Meiothermus taiwanensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+173,Leptospira interrogans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1731,Peptoclostridium acidaminophilum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+173366,Methylocystis rosea,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1736226,Pseudomonas sp. Leaf58,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1737490,Agarilytica rhodophyticola,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1745854,Ancylobacter pratisalsi,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1747,Cutibacterium acnes,TRUE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1752064,Leptolyngbya sp. NIES-3755,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1752398,Sinorhizobium alkalisoli,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1756988,Nitratireductor sp. OM-1,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1758178,Celeribacter ethanolicus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1758189,Acinetobacter sp. ACNIH2,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1761016,Paraburkholderia caffeinilytica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+176102,Pseudoalteromonas agarivorans,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+176292,Secundilactobacillus malefermentans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1763538,Paenibacillus crassostreae,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1764,Mycobacterium avium,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1765049,Azospira sp. I09,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1767,Mycobacterium intracellulare,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1768108,Deinococcus actinosclerus,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+1773,Mycobacterium tuberculosis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+1775910,Methylobacterium indicum,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1778,Mycobacterium gordonae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1778262,Candidatus Doolittlea endobia,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1781,Mycobacterium marinum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1792307,Bosea sp. PAMC 26642,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1792508,Salipiger sp. CCB-MM3,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1795043,Burkholderia sp. PAMC 26561,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1795630,Frondihabitans sp. PAMC 28766,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1795874,Burkholderia sp. PAMC 28687,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+179636,Alicycliphilus denitrificans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1796606,Cupriavidus nantongensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+179879,Burkholderia anthina,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1800,Mycolicibacterium chubuense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1804,Mycolicibacterium gilvum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1805933,Rahnella sikkimica,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1806508,Candidatus Promineifilum breve,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1806905,Arthrobacter sp. ZXY-2,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1807790,Rhodococcus sp. BH4,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1808001,Acinetobacter sp. LoGeW2-3,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1809,Mycobacterium ulcerans,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1812935,Enterobacter roggenkampii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1813451,Peteryoungia desertarenae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1815583,Neisseria musculi,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+1816183,Haloplanus rallus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+182337,Erwinia billingiae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1825976,Neorhizobium sp. NCHU2750,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1826872,Candidatus Nitrosocosmicus hydrocola,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1827144,[Synechococcus] sp. NIES-970,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1828,Rhodococcoides fascians,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1829,Rhodococcus rhodochrous,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil
+1830,Rhodococcus ruber,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1833,Rhodococcus erythropolis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1837283,Streptomyces sp. S8,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1839798,Bacillus sp. FDAARGOS_235,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1839799,Streptococcus sp. FDAARGOS_192,TRUE,TRUE,TRUE,FALSE,0.05,TRUE,TRUE,In both,Decontam low certainty
+1840239,Polaromonas sp. E10S,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1840257,Polaromonas sp. E19S,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1840265,Polaromonas sp. E3S,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1840267,Polaromonas sp. E5S,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1840283,Polaromonas sp. H1N,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1840293,Polaromonas sp. H6N,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1840297,Polaromonas sp. H8N,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1840303,Polaromonas sp. W11N,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1840315,Polaromonas sp. W5N,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1842534,Sinorhizobium sp. RAC02,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1842535,Blastomonas sp. RAC04,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1842536,Agrobacterium sp. RAC06,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1842539,Bosea sp. RAC05,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1842727,Rhodoferax koreense,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1843368,Sphingobium sp. RAC03,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1844006,Phaeobacter porticola,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1844971,Curvibacter sp. AEP1-3,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1846278,Candidatus Nitrosotenuis aquarius,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1848517,Enterobacter sp. LU1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+1849032,Arthrobacter sp. U41,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+184912,Citrobacter sp. TSA-1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+184917,Solidesulfovibrio magneticus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1849967,Streptomyces sp. SAT1,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+185007,Pseudobutyrivibrio xylanivorans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+185008,Butyrivibrio hungatei,TRUE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1850238,Rhizorhabdus dicambivorans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1850250,Rhodobacter xanthinilyticus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1851514,Scandinavium goeteborgense,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1853682,Halarchaeum sp. CBA1220,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1853690,Halolamina sp. CBA1230,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1853699,Halorubrum sp. CBA1229,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1855519,Sphingobium sp. EP60837,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1855726,Burkholderia sp. KK1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+185588,Ruegeria sp. PR1b,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1858609,Acidovorax sp. T1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+186189,Xylanimonas cellulosilytica,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1866325,Sphingopyxis sp. MG,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+1867715,Bosea sp. Tri-49,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+1867719,Phyllobacterium zundukense,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+1868793,Jeotgalibaca porci,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1869241,Nostoc sp. CENA543,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1869339,Polaromonas sp.,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1871047,Chryseobacterium sp.,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1871054,Janthinobacterium sp.,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+187137,Oceanithermus profundus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+187304,Roseibium aggregatum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1873524,Halodesulfurarchaeum formicicum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1874061,Sphingopyxis sp. EG6,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1874277,Conexivisphaera calida,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+187880,Thermococcus radiotolerans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1878942,Candidatus Fukatsuia symbiotica,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1879049,Acinetobacter sp. WCHAc010034,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1879050,Acinetobacter wuhouensis,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1882682,Microvirga ossetica,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+1884263,Selenomonas sp. oral taxon 920,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+1886807,Pseudomonas sp. TMW 2.1634,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+188770,Streptomyces koyangensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1889,Streptomyces ambofaciens,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1890302,Bacillus wiedmannii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1891207,Thaumasiovibrio subtropicus,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1891787,Roseobacter ponti,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1892404,Bacillus sp. ABP14,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1892855,Sphingosinicella sp. BN140058,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1894,Kitasatospora aureofaciens,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1896961,Amycolatopsis sp. AA4,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1898042,Pseudovibrio brasiliensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+189834,Actinobacillus porcitonsillarum,FALSE,TRUE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+189918,Mycobacterium sp. KMS,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1901,Streptomyces clavuligerus,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1904,Streptomyces cyaneus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1905288,Klebsiella sp. LTGPAF-6F,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1906275,Cronobacter sp. JZ38,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1907,Streptomyces glaucescens,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+190721,Ralstonia insidiosa,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+1908,Streptomyces globisporus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+190893,Vibrio coralliilyticus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1914,Streptomyces lavendulae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+1914461,Micromonospora terminaliae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1914525,Sphingopyxis sp. FD7,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1914541,Rhizobium sp. Y9,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1914871,Dolichospermum sp. UHCC 0315A,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+1915078,Thioclava nitratireducens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1916,Streptomyces lividans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+191610,Corynebacterium atypicum,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1917485,Sulfitobacter alexandrii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+192,Azospirillum brasilense,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+1920110,Citrobacter sp. CFNIH10,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+1920749,Candidatus Mancarchaeum acidiphilum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1920883,Marivivens sp. JLT3646,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1921421,Geobacillus genomosp. 3,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1921510,Tardibacter chloracetimidivorans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1922217,Candidatus Erwinia haradaeae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1924733,Kayvirus MCE2014,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1925550,Rhodococcus sp. M8,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1926290,Cryobacterium sp.,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1927,Streptomyces rimosus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1927128,Candidatus Enterovibrio luxaltus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1928,Streptomyces rochei,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+192843,Rhodoferax ferrireducens,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+193,Azospirillum lipoferum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+1932,Streptomyces tendae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1932004,Haloarcula taiwanensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1932360,Halorientalis sp. IM1011,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1935,Streptomyces violaceoruber,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1936029,Mycobacterium sp. MS1601,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+1937005,Methanopyrus sp. SNP6,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1938334,Microbacterium sp. TPU 3598,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+1944648,Ralstonia syzygii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1945662,Paracoccus contaminans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+194963,Sinorhizobium americanum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+195,Campylobacter coli,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+195105,Haematobacter massiliensis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+195248,Picosynechococcus sp. PCC 8807,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1954171,Calothrix sp. NIES-2098,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+196,Campylobacter fetus,TRUE,TRUE,FALSE,TRUE,0.9,TRUE,TRUE,In oral list,Passing
+1961362,Sphingomonas sp. NIC1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+196162,Nocardioides sp. JS614,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1964449,Streptomyces sp. 3211,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1968541,Sulfitobacter sp. D7,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1968788,Mycolicibacterium sp. CBMA 213,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+1969,Streptomyces chartreusis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1969806,Acidibrevibacterium fodinaquatile,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1969821,Ciceribacter thiooxidans,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+197,Campylobacter jejuni,TRUE,TRUE,FALSE,FALSE,0.05,TRUE,TRUE,In oral list,Decontam low certainty
+197162,Deferribacter desulfuricans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1972846,Streptomyces sp. Sge12,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+1973475,Nostoc sp. NIES-2111,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1973486,Calothrix parasitica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1978566,Cryobacterium sp. LW097,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1979527,Corynebacterium kefirresidentii,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1980674,Paenibacillus sp. Cedars,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+1981024,Cequinquevirus Ld25A,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+1981173,Rhizobium sp. NXC14,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+1982291,Pahexavirus PHL132N00,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+1982928,Pegunavirus soto,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+1984801,Streptomyces sp. CLI2509,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+1985254,Xanthomonas phaseoli,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+1985873,Sulfuriferula sp. AH1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+199,Campylobacter concisus,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+1990687,Rhodococcus oxybenzonivorans,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+199592,Microbacterium paraoxydans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2001,Streptosporangium roseum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2004646,Acinetobacter sp. WCHA55,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2005456,Fischerella sp. NIES-4106,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2005458,Nostoc sp. NIES-4103,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2005460,Chondrocystis sp. NIES-4102,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2005464,Scytonema sp. NIES-4073,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2005884,Thauera sp. K11,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2006,Thermobispora bispora,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2006115,Acinetobacter piscicola,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2008440,Thermococcus sp. 5-4,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2009329,Sagittula sp. P11,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2010972,Caulobacter rhizosphaerae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2014542,Alcanivorax sp. N3-2A,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2015316,Bosea sp. AS-1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2017482,Thalassococcus sp. S3,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2017485,Brachybacterium avium,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2018065,Roseomonas sp. FDAARGOS_362,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2020311,Rhizobium sp. Kim5,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2020312,Rhizobium sp. CIAT894,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+2020313,Rhizobium sp. TAL182,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2020412,Bosea sp. ANAM02,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2021234,Ahniella affigens,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2021971,Streptococcus respiraculi,TRUE,TRUE,TRUE,FALSE,0.9,FALSE,NA,In both,Decontam & Abundance
+2024858,Sandaracinus sp.,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2026189,Bacillus albus,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2026193,Bacillus nitratireducens,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2026199,Paraburkholderia aromaticivorans,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2027919,Enterobacter cloacae complex sp.,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2028343,Rhizobium sp. 11515TR,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+202956,Acinetobacter towneri,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2033869,Rhodobacter sp. CZR27,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2035,Curtobacterium flaccumfaciens,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2044521,Natrarchaeobaculum sulfurireducens,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2045208,Massilia violaceinigra,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2047966,Dongshaea marina,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2048283,Thalassospira marina,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2048897,Rhizobium sp. NXC24,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+2049881,Streptomyces dengpaensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2051553,Methylobacterium currus,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2051906,Exiguobacterium sp. N4-1P,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2051957,Rubrobacter indicoceani,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2052056,Pantoea phytobeneficialis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2054,Gordonia bronchialis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2054902,Rhodococcus sp. AQ5-07,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2055,Gordonia terrae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2057741,Bradyrhizobium sp. SK17,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2058136,Planococcus sp. MB-3u-03,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2058152,Klebsiella grimontii,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+205844,Novosphingobium pentaromativorans,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2058624,Undibacterium sp. KW1,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2058625,Undibacterium sp. YM2,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+2059875,Gordonia sp. YC-JH1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2060307,Enterococcus sp. FDAARGOS_375,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2060726,Neorhizobium sp. SOG26,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2061,Tsukamurella paurometabola,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2065379,Paracoccus jeotgali,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2066070,Mesorhizobium japonicum,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+206662,Streptomyces sp. FR-008,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2067957,Methylobacterium sp. DM1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2069256,Pseudomonas sp. XWY-1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2072936,Sphingobium sp. SCG-1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+207340,Roseomonas mucosa,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2074,Pseudonocardia autotrophica,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2077148,Citrobacter freundii complex sp. CFNIH4,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2077182,Sphingorhabdus sp. YGSMI21,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+207745,Variovorax sp. WDL1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2079792,Mycetocola zhujimingii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2080419,Deinococcus sp. NW-56,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2081702,Actinomyces sp. oral taxon 897,TRUE,TRUE,TRUE,FALSE,0.1,TRUE,TRUE,In both,Decontam low certainty
+2081791,Rhizobium ruizarguesonis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2082188,Sphingobium sp. YG1,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+208223,Kosakonia cowanii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+208224,Enterobacter kobei,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+208439,Amycolatopsis japonica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2086471,Adhaeribacter swui,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2093856,Butyricimonas faecalis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2094021,Streptomyces sp. WAC00288,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2099,Mesomycoplasma hyopneumoniae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2099387,Tolypothrix sp. PCC 7910,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+210,Helicobacter pylori,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2104,Mycoplasmoides pneumoniae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2109593,Streptomyces sp. SGAir0924,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2109686,Butyricicoccus sp. GAM44,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2109915,Simplicispira suum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2121,Metamycoplasma orale,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2124,Metamycoplasma salivarium,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2126321,Nissabacter sp. SGAir0207,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+212765,Mycolicibacterium madagascariense,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+212767,Mycobacterium sp. JS623,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2133,Spiroplasma citri,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2136182,Acinetobacter cumulans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2136401,Streptomyces sp. YIM 121038,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+214473,Staphylococcus nepalensis,TRUE,TRUE,TRUE,FALSE,0.3,FALSE,NA,In both,Decontam & Abundance
+215221,Komagataeibacter rhaeticus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+215689,Erwinia sp. Ejp617,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+215743,Roseovarius mucosus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+215813,Dinoroseobacter shibae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2162,Methanobacterium formicicum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+216465,Polaromonas naphthalenivorans,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+216816,Bifidobacterium longum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2169400,Gemmobacter aquarius,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2171623,Miniimonas sp. S16,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+217204,Achromobacter insolitus,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2172099,Saccharobesus litoralis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2173,Methanobrevibacter smithii,TRUE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+218144,Vagococcus carniphilus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2182384,Erythrobacter aureus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2184053,Streptomyces cadmiisoli,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2184575,Acetobacterium sp. KB-1,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+219572,Pseudomonas antarctica,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2202000,Streptomyces sp. NEAU-S7GS2,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2202141,Chromobacterium phragmitis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2202148,Azospirillum thermophilum,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+2203895,Psychrobacter sp. YP14,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+220697,Thalassospira xiamenensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2210,Methanosarcina thermophila,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+221027,Treponema putidum,TRUE,TRUE,FALSE,FALSE,0.9,FALSE,NA,In oral list,Decontam & Abundance
+2211140,Acidisarcina polymorpha,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2211210,Arthrobacter dokdonellae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2213202,Planococcus lenghuensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2217832,Bacillus sp. JAS24-2,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2217913,Burkholderia sp. JP2-270,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+221822,Phaeobacter inhibens,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+2219696,Sphingomonas sp. FARSPH,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2220073,Bdellovibrio sp. NC01,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2220096,Indioceanicola profundi,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2233851,Blastochloris tepida,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+2238,Haloarcula marismortui,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+223967,Methylorubrum populi,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2242,Halobacterium salinarum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2246,Haloferax volcanii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2247,Halorubrum lacusprofundi,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2252,Haloferax mediterranei,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+225326,Corynebacterium halotolerans,TRUE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+225362,Paracoccus haeundaensis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2257,Natronomonas pharaonis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2259595,Runella rosea,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2259620,Hydrocarboniclastica marina,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2259673,Nitrosarchaeum sp. AC2,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2261,Pyrococcus furiosus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2267275,Bartonella krasnovii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2267833,Rhizobium oryzihabitans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2275,Desulfurococcus mucosus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+227605,Methylocella tundrae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2277,Pyrobaculum islandicum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+227942,Limosilactobacillus gastricus,TRUE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2282148,Candidatus Micrarchaeum sp.,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2282309,Leclercia sp. W17,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2282419,Staphylococcus pseudoxylosus,TRUE,TRUE,TRUE,FALSE,0.9,TRUE,FALSE,In both,Decontam & Soil
+2282656,Humibacter sp. BT305,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2287,Saccharolobus solfataricus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+228899,Peribacillus asahii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2291939,Rhizobium sp. ZX09,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2293862,Ruegeria sp. AD91A,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2296,Desulforapulum autotrophicum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+229731,Halobiforma lacisalsi,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+230361,Methanobrevibacter millerae,TRUE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2305220,Streptomyces sp. W1SF4,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2319843,Hymenobacter oligotrophus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2319844,Sphingomonas paeninsulae,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+232721,Acidovorax sp. JS42,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+233067,Rhodococcus sp. B264-1,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2339259,Yersinia hibernica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2350,Haliscomenobacter hydrossis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2364271,Rhizobium sp. CCGE531,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2364272,Rhizobium sp. CCGE532,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2371,Xylella fastidiosa,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2377,Sporomusa termitida,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+240427,Secundilactobacillus paracollinoides,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+240495,Pseudonocardia dioxanivorans,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+240521,Rhizobium daejeonense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+241425,Crinalium epipsammum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2419771,Gryllotalpicola protaetiae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2420135,Streptomyces sp. S501,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2420313,Enterococcus sp. FDAARGOS_553,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2434,Roseobacter denitrificans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+244366,Klebsiella variicola,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+244734,Bradyrhizobium betae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+245188,Yoonia vestfoldensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+246167,Vibrio crassostreae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+246432,Staphylococcus equorum,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+247,Empedobacter brevis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2479367,Buttiauxella sp. 3AFRM03,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+248026,Cupriavidus pinatubonensis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2483033,Parasedimentitalea marina,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2483404,Mesorhizobium sp. NZP2077,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2488665,Marinobacter sp. NP-4(2019),FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2489213,Deinococcus psychrotolerans,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2490851,Pantoea sp. CCBC3-3-1,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2490853,Rhodococcus sp. NJ-530,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2492837,Sphingomonas sp. C8-2,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2493093,Bradyrhizobium sp. LCT2,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2493108,Thiomonas sp. Bio17B3,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+2494374,Tabrizicola piscis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2494550,Roseovarius faecimaris,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2496837,Brevibacillus marinus,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2497325,Halorubrum sp. BOL3-1,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2498135,Streptomonospora litoralis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2498848,Pseudomonas sp. MPC6,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2499213,Bacillus sp. BD59S,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2500532,Paracoccus sp. Arc7-R13,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2500533,Pseudorhodobacter turbinis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2500548,Acetobacter oryzoeni,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2505970,Campylobacter armoricus,TRUE,TRUE,FALSE,FALSE,0.3,FALSE,NA,In oral list,Decontam & Abundance
+2505977,Halorussus pelagicus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2508306,Leisingera sp. NJS201,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2508307,Leisingera sp. NJS204,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2509459,Xylanimonas allomyrinae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2512240,Sulfolobus sp. S-194,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+251701,Pseudomonas syringae group genomosp. 3,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2517362,Campylobacter sp. CCUG 57310,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+2518971,Duncaniella dubosii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2527974,Tautonia plasticadhaerens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2528024,Lacipirellula limnantheis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2528037,Eikenella exigua,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+2528642,Lichenihabitans psoromatis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2528964,Xanthobacter dioxanivorans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+252970,Paraburkholderia phenoliruptrix,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2530390,Muribaculum gordoncarteri,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+254246,Aquicella lusitana,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+2546351,Thermaerobacter sp. FW80,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2546356,Gloeothece citriformis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2546359,Gloeothece verrucosa,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+2546366,Rippkaea orientalis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2547399,Paraburkholderia pallida,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2547598,Marinobacter sp. JH2,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2547601,Porphyrobacter sp. YT40,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+255507,Aliarcobacter cibarius,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2558360,Oecophyllibacter saccharovorans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2558361,Formicincola oecophyllae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2559073,Cutibacterium modestum,TRUE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2560053,Paracoccus liaowanqingii,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+2560397,Corynebacterium virus Zion,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2560460,Tequatrovirus slur03,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2560493,Galunavirus GAL1,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2560688,Nickievirus nickie,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+256325,Psychrobacter maritimus,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2563897,Acinetobacter sp. 10FS3-1,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2565781,Candidatus Nanohalobium constans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2565914,Enterobacter sp. 18A13,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+256701,Glutamicibacter arilaitensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2567881,Citricoccus sp. SGAir0253,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2567884,Rhodococcus sp. SGAir0479,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+256839,Shewanella decolorationis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2571030,Pontibacter sp. SGAir0037,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2571748,Paraburkholderia acidisoli,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2571749,Novosphingobium sp. EMRT-2,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2572577,Salinimonas iocasae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+257438,Gluconobacter thailandicus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2575375,Pantoea sp. SO10,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2576356,Bacillus sp. FDAARGOS_527,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2576902,Nostoc sp. C052,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2576903,Nostoc sp. C057,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2576904,Nostoc sp. TCL26-01,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+257708,Roseomonas gilardii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+257758,Streptococcus pseudopneumoniae,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+2579248,Agrobacterium sp. CGMCC 11546,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2579971,Paroceanicella profunda,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2580515,Agrobacterium sp. T29,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2582830,Enterococcus sp. M190262,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2583231,Rhizobium indicum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+2583532,Martelella lutilitoris,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2584940,Hymenobacter sp. DG01,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+258505,Mycolicibacterium fluoranthenivorans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2587808,Cellulosimicrobium protaetiae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2587842,Palleronia sp. THAF1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2587843,Pseudoalteromonas sp. THAF3,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2587846,Roseovarius sp. THAF8,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2587847,Roseovarius sp. THAF9,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2587849,Halomonas sp. THAF12,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2587850,Roseovarius sp. THAF27,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2587853,Ruegeria sp. THAF33,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2587854,Labrenzia sp. THAF35,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2587855,Sulfitobacter sp. THAF37,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2587857,Marinobacter sp. THAF39,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2587858,Roseivivax sp. THAF40,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2587862,Vibrio aquimaris,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2587865,Vibrio sp. THAF190c,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2587868,Mycobacterium sp. THAF192,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2588299,Roseivivax sp. THAF197b,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2588711,Pelagovum pacificum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2589076,Paracoccus sp. AK26,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil
+2589790,Shewanella sp. LC6,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2590015,Shewanella sp. SNU WT4,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2590022,Sulfurimonas lithotrophica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2590777,Rhizobium sp. NIBRBAC000502774,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2590785,Pseudarthrobacter sp. NIBRBAC000502770,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2592655,Acetobacter vaccinii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2594269,Chryseobacterium sp. SNU WT5,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2594454,Streptomyces sp. RLB1-9,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2594457,Streptomyces sp. RLB3-6,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2594459,Streptomyces sp. S1A1-7,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2594461,Streptomyces sp. S1D4-14,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2594462,Streptomyces sp. S1D4-20,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2596912,Glaciihabitans sp. INWT7,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2596913,Sphingomonas sp. NBWT7,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2596915,Hymenobacter sp. NBH84,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2596916,Frigoribacterium sp. NBH87,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2596949,Enterobacter sp. E76,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2597660,Tomitella fengzijianii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2599296,Qingshengfaniella alkalisoli,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2599399,Salarchaeum sp. JOR-1,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2599640,Bosea sp. F3-2,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+2601122,Acinetobacter sp. YH12138,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2602067,Octadecabacter sp. SW4,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2603206,Ruania zhangjianzhongii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2603276,Methylobacterium sp. WL1,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2603277,Rhizobium sp. WL3,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2604047,Paraburkholderia dioscoreae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2605946,Pukyongiella litopenaei,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2607911,Paenibacillus sp. 37,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2608254,Bacillus sp. BS98,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2609252,Rathayibacter sp. VKM Ac-2759,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2609253,Rathayibacter sp. VKM Ac-2760,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2609255,Rathayibacter sp. VKM Ac-2801,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2610902,Halomicrobium sp. LC1Hm,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+261302,Paraburkholderia phytofirmans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2613770,Rhizobium sp. BG4,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+2613771,Rhizobium sp. BG6,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2613773,Sinorhizobium sp. BG8,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+262209,Janibacter melonis,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+263,Francisella tularensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+264686,Nostoc edaphicum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+264691,Trichormus variabilis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+264697,Peribacillus muralis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2650975,Halorussus halophilus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2651048,Pseudomonas sp. CFA,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2651974,Hydrogenophaga sp. BPS33,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2652443,Deinococcus sp. AJ005,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+265293,Burkholderia ubonensis,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+2653200,Streptomyces phaeolivaceus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2653203,Sphingomonas sp. CL5.1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2653851,Rubrobacter tropicus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2653852,Rubrobacter marinus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2653857,Amycolatopsis sp. YIM 10,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2654248,Mesorhizobium sp. INR15,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2654249,Mesorhizobium sp. NBSH29,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2654982,Paraburkholderia atlantica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+265668,Vibrio ponticus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+265959,Komagataeibacter saccharivorans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+266,Paracoccus denitrificans,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+2662028,Aeromicrobium yanjiei,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2662065,Streptomyces sp. SYP-A7193,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2662448,Legionella sp. MW5194,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2663020,Sulfolobus sp. E11-6,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2663121,Rhodococcus sp. WAY2,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2664893,Agrobacterium sp. MA01,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2666139,Aminobacter sp. MDW-2,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+266779,Chelativorans sp. BNC1,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+267128,Sphingopyxis granuli,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2675099,Haloterrigena salifodinae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2675218,Corynebacterium comes,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2675219,Corynebacterium occultum,TRUE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2675298,Sulfuriferula nivalis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2675378,Erwinia sp. E602,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2675707,Aeromonas sp. WP2-W18-CRE-05,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2675711,Klebsiella sp. WP3-S18-ESBL-05,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+2675726,Klebsiella sp. WP8-S18-ESBL-06,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2675877,Hymenobacter sp. BRD67,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,NA,None,Decontam low certainty
+2675878,Hymenobacter sp. BRD128,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2676077,Sphingobium sp. CAP-1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2676309,Gordonia sp. 135,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2681984,Erwinia sorbitola,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2683591,Rhodococcus sp. 21391,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+2684468,Streptomyces sp. QHH-9511,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2690380,Lactobacillus sp. JM1,TRUE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2692233,Streptomyces sp. HF10,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2692330,Falsirhodobacter algicola,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+269660,Methylobacterium brachiatum,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2697569,Pseudarthrobacter psychrotolerans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2698673,Novosphingobium decolorationis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2698679,Sphingomonas changnyeongensis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2698900,Gordonia sp. JH63,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2699395,Methylosinus sp. C49,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+270351,Methylobacterium aquaticum,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+2703885,Rahnella aceris,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2704463,Paenibacillus rhizovicinus,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2705547,Caballeronia sp. SBC2,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2705548,Caballeronia sp. SBC1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2708020,Legionella antarctica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2708348,Acinetobacter sp. WY4,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2708539,Caulobacter soli,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+271,Thermus aquaticus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+271065,Methylotuvimicrobium alcaliphilum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2711328,Kocuria sp. TGY1127_2,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2714036,Companilactobacillus pabuli,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2714353,Vescimonas fastidiosa,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2714358,Pusillibacter faecalis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2714924,Diaphorobacter sp. HDW4A,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2714925,Diaphorobacter sp. HDW4B,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2714932,Hymenobacter sp. HDW8,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2714948,Vibrio sp. HDW18,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2715959,Shinella sp. PSBB067,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+2715960,Bradyrhizobium sp. PSBB068,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2716717,Haloarcula sp. JP-L23,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2716812,Candidatus Protofrankia datiscae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+271865,Ochrobactrum quorumnocens,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+271881,Lactiplantibacillus argentoratensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2718938,Phyllobacterium sp. 628,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+272131,Nostoc punctiforme,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2722825,Rhodococcus sp. DMU1,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+2724,Hirschia baltica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2725666,Mesorhizobium terrae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2725684,Acinetobacter sp. NEB149,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2726427,Ochrobactrum sp. MT180101,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2726954,Sarcina sp. JB2,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2728020,Massilia forsythiae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2728022,Mucilaginibacter robiniae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2728023,Cohnella herbarum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2728024,Spirosoma rhododendri,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2731096,Rhizobium sp. NZLR1,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2731112,Rhizobium sp. NLR16a,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+2731219,Alkaliphilus sp. B6464,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2731220,Methanobacterium alkalithermotolerans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2731756,Teredinibacter purpureus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2732024,Epseptimavirus S113,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2732364,Burkholderia sp. MBR-1,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2733866,Psychrobacter sp. KCTC 72983,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2733867,Sphingobium sp. KCTC 72723,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2734078,Acionnavirus monteraybay,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2734240,Jacevirus jace,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2734285,Vashvirus lilbooboo,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2735133,Herbiconiux sp. SALV-R1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2735134,Sphingomonas sp. AP4-R1,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,TRUE,In contam list,Decontam high certainty
+2735316,Paenarthrobacter sp. YJN-5,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2735317,Paenarthrobacter sp. YJN-D,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2735434,Paraburkholderia sp. PGU19,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+2735554,Diaphorobacter sp. JS3050,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+2735563,Thiothrix subterranea,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2735868,Exiguobacterium sp. Helios,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2736640,Pseudonocardia broussonetiae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2739057,Halorubrum salinarum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2739434,Chitinibacter bivalviorum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+274,Thermus thermophilus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2742132,Verrucosispora sp. NA02020,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2742134,Streptomyces sp. NA03103,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2742137,Streptomyces sp. NA02950,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2742619,Enterobacter sp. RHB15-C17,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2742648,Citrobacter sp. RHBSTW-00446,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+2742655,Citrobacter sp. RHBSTW-00570,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+2742662,Citrobacter sp. RHBSTW-00696,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+2742677,Citrobacter sp. RHBSTW-01013,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2743,Marinobacter nauticus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2743089,Halorarum salinum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+2743090,Halorarum halophilum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2743470,Comamonas antarctica,TRUE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+2743575,Acinetobacter sp. NEB 394,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2744516,Mesorhizobium sp. 113-3-3,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2744518,Mesorhizobium sp. 131-2-1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2744519,Mesorhizobium sp. 131-2-5,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2744520,Mesorhizobium sp. 131-3-5,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2744521,Mesorhizobium sp. L-2-11,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2745197,Adhaeribacter radiodurans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2749906,Rhodococcus sp. ZPP,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2751,Carnobacterium maltaromaticum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2751189,Streptomyces sp. NEAU-sy36,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2752475,Pseudoalteromonas sp. JSTW,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2755405,Bacteroides sp. CACC 737,FALSE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2756,Brochothrix thermosphacta,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2759525,Streptomyces sp. M54,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2759526,Sphingomonas aliaeris,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2759660,Bartonella sp. HY038,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2760307,Paracoccus sp. MC1862,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+2763006,Streptomyces buecherae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2763257,Microbacterium sp. YJN-G,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2766784,Microbacterium sp. Nx66,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+2767576,Salutenavirus salutena,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2768068,Streptomyces genisteinicus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2768069,Streptomyces xanthii,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2768161,Roseomonas marmotae,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil
+2768162,Roseomonas haemaphysalidis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+2768165,Pantoea sp. MT58,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2769351,Brucella sp. 6810,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2769491,Massilia litorea,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2770551,Yimella sp. cx-51,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2772401,Pseudarthrobacter sp. BIM B-2242,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2773266,Agreia sp. COWG,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+2773299,Desulfolutivibrio sulfoxidireducens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2773454,Marinomonas algicola,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2774151,Frigoriglobus tundricola,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2774562,Aminobacter sp. SR38,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+2774874,Arthrobacter sp. TES,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2775420,Skermanella sp. TT6,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+2777185,Pontibacillus sp. ALD_SL1,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2778051,Aeromonas sp. FDAARGOS 1402,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2778078,Corynebacterium sp. FDAARGOS 1242,TRUE,FALSE,TRUE,FALSE,0.9,TRUE,TRUE,In contam list,Decontam high certainty
+2780074,Novosphingobium sp. ES2-1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+278153,Mesorhizobium sp. WSM1497,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2781734,Streptomyces sp. A2-16,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2785056,Rhizobium sp. 007,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2785785,Methylomonas sp. LL1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2789327,Sphingobium sp. Cam5-1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+279058,Collimonas arenae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+279113,Collimonas pratensis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2792224,Diaphorobacter sp. JS3051,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2792603,Acidihalobacter aeolianus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2795488,Curtobacterium sp. YC1,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+2797636,Streptomyces liliifuscus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+279826,Mesobacillus foraminis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+2799495,Raoultella sp. XY-1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2801033,Streptomyces sp. CA-256286,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+2801534,Thalassavirus gary,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+28035,Staphylococcus lugdunensis,TRUE,TRUE,TRUE,FALSE,0.9,FALSE,NA,In both,Decontam & Abundance
+28038,Latilactobacillus curvatus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+28045,Mycobacterium celatum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2806442,Rhodococcus sp. USK13,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+2807101,Microvirga sp. VF16,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+28072,Nostoc sp. PCC 7524,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+28082,Legionella anisa,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+28090,Acinetobacter lwoffii,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+28095,Burkholderia gladioli,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+28097,Ralstonia syzygii,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+28099,Agrobacterium rubi,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+28104,Mesorhizobium huakuii,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2810537,Halobacterium sp. BOL4-2,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+28108,Alteromonas macleodii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2811415,Niveibacterium microcysteis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2811421,Rhodococcus pseudokoreensis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+2811423,Ensifer sp. PDNC004,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+2811425,Variovorax sp. PDNC026,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+2811788,Burkholderia sp. MS455,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2812000,Pseudomonas hygromyciniae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2812647,Methylomonas sp. EFPC1,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+2812648,Methylococcus sp. EFPC2,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2812658,Paracoccus methylovorus,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2812863,Rhodococcus sp. PSBB049,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+28129,Prevotella denticola,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+28131,Prevotella intermedia,TRUE,TRUE,FALSE,FALSE,0.3,FALSE,NA,In oral list,Decontam & Abundance
+28132,Prevotella melaninogenica,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+28133,Prevotella nigrescens,TRUE,TRUE,FALSE,FALSE,0.05,TRUE,TRUE,In oral list,Decontam low certainty
+2813843,Burkholderia sp. LAS2,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+28141,Cronobacter sakazakii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+2814653,Caballeronia sp. M1242,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2815360,Rhizobium sp. X9,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+28173,Vibrio nigripulchritudo,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+28198,Aliarcobacter cryaerophilus,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+2820523,Aestuarium zhoushanense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+28214,Sphingomonas sp.,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+282217,Variovorax sp. SRS16,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+28232,Geobacter metallireducens,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2823693,Phenylobacterium montanum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+28251,Ornithobacterium rhinotracheale,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+282676,Acidianus manzaensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2829498,Pseudomonas sp. JS425,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+2829502,Photobacterium sp. GJ3,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+2829816,Exiguobacterium sp. PFWT01,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2831662,Gordonia pseudamarae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2834276,Methanospirillum sp. J.3.6.1-F.2.7.3,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+283699,Pseudoalteromonas sp. Bsw20308,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2839983,Cupriavidus sp. EM10,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+284016,Phenylobacterium zucineum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+2843216,Miltoncostaea oceani,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+28447,Clavibacter michiganensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+28448,Komagataeibacter xylinus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+28450,Burkholderia pseudomallei,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+2845658,Mycobacterium virus ThetaBob,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+2847989,Geomonas subterranea,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+2849093,Rhizobium sp. WYJ-E13,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+285,Comamonas testosteroni,TRUE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+2851540,Klebsiella sp. PL-2018,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+2861280,Microbacterium sp. PAMC21962,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+286727,Azospirillum oryzae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+287,Pseudomonas aeruginosa,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+288000,Bradyrhizobium sp. BTAi1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+28898,Campylobacter helveticus,TRUE,TRUE,FALSE,FALSE,0.3,FALSE,NA,In oral list,Decontam & Abundance
+28901,Salmonella enterica,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+289435,Sphaerospermopsis kisseleviana,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+290399,Arthrobacter sp. FB24,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+290400,Jannaschia sp. CCS1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+292,Burkholderia cepacia,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+292414,Ruegeria sp. TM1040,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+29284,Halorubrum trapanicum,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+29288,Natronococcus occultus,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+292913,Sphingopyxis sp. 113P3,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+29303,Streptantibioticus cattleyicolor,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+293089,Martelella mediterranea,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+293091,Haloquadratum walsbyi,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+29320,Paenarthrobacter nicotinovorans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+29380,Staphylococcus caprae,TRUE,TRUE,TRUE,FALSE,0.9,FALSE,NA,In both,Decontam & Abundance
+29382,Staphylococcus cohnii,TRUE,TRUE,TRUE,TRUE,0.9,TRUE,TRUE,In both,Passing
+29385,Staphylococcus saprophyticus,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+29388,Staphylococcus capitis,TRUE,TRUE,TRUE,FALSE,0.3,FALSE,NA,In both,Decontam & Abundance
+29394,Dolosigranulum pigrum,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+293958,Rhizobium lusitanum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+294,Pseudomonas fluorescens,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+29430,Acinetobacter haemolyticus,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+29433,Moraxella ovis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+29438,Pseudomonas savastanoi,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+29448,Bradyrhizobium elkanii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+29449,Rhizobium etli,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+29459,Brucella melitensis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+294699,Anoxybacillus amylolyticus,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+29494,Vibrio furnissii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+29498,Vibrio tubiashii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+29510,Turneriella parva,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+29519,Borreliella garinii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+29520,Borrelia crocidurae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+29543,Pelobacter propionicus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+29549,Rhodothermus marinus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+29555,Mycoplasmopsis canis,TRUE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+29581,Janthinobacterium lividum,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+296,Pseudomonas fragi,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+296591,Polaromonas sp. JS666,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+296842,Solidesulfovibrio carbinolicus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+297,Hydrogenophilus thermoluteolus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+299262,Tateyamaria omphalii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+299767,Enterobacter ludwigii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+300,Pseudomonas mendocina,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+300876,Vibrio europaeus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+303,Pseudomonas putida,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+304378,Sphingomonas sp. IC081,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+305,Ralstonia solanacearum,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+306,Pseudomonas sp.,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+308754,Rhodovulum sp. MB263,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+310783,Deinococcus deserti,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil
+311180,Alloyangia pacifica,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+311182,Denitratisoma oestradiolicum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+311231,Paraburkholderia ginsengisoli,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+311400,Thermococcus kodakarensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+311808,Arthrobacter sp. 68b,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+313985,Trichlorobacter lovleyi,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+314275,Alteromonas mediterranea,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+315405,Streptococcus gallolyticus,TRUE,TRUE,TRUE,FALSE,0.9,TRUE,TRUE,In both,Decontam high certainty
+316,Stutzerimonas stutzeri,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+317,Pseudomonas syringae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+317577,Deinococcus ficus,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+317660,Streptomyces sp. F2,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+318683,Gluconobacter albidus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+319318,Streptomyces sp. F11,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+319707,Mycolicibacterium aubagnense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+31998,Methylobacterium radiotolerans,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+32046,Synechococcus elongatus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+32049,Picosynechococcus sp. PCC 7002,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+321662,Pseudomonas moraviensis,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+323450,Pontibacter actiniarum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+326454,Burkholderia sp. M701,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+327160,Candidatus Accumulibacter phosphatis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+329,Ralstonia pickettii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+33034,Anaerococcus prevotii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+33050,Sphingopyxis macrogoltabida,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+33052,Sphingopyxis terrae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+33059,Acidithiobacillus caldus,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+331648,Nonlabens spongiae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+332055,Sphingobium indicum,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+332186,Shewanella xiamenensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+333962,Providencia heimbachae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+333966,Saccharopolyspora pogona,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+334542,Rhodococcus qingshengii,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+334852,Methylobacterium oryzae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+336179,Pseudoalteromonas sp. 643A,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+336203,Sphingobium fuliginis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+337,Burkholderia glumae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+337191,Gordonia sp. KTR9,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+337243,Halorubrum ezzemoulense,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+338565,Erwinia tasmaniensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+338644,Sulfobacillus thermotolerans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+339,Xanthomonas campestris,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+33903,Streptomyces avermitilis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+33910,Amycolatopsis mediterranei,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+33940,Geobacillus thermodenitrificans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+33962,Lentilactobacillus kefiri,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+33964,Leuconostoc citreum,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+33995,Komagataeibacter europaeus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+33996,Gluconacetobacter diazotrophicus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+34003,Paracoccus aminophilus,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil
+34004,Paracoccus aminovorans,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+340071,Criblamydia sequanensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+340146,Exiguobacterium mexicanum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+34038,Rahnella aquatilis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+34062,Moraxella osloensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+34073,Variovorax paradoxus,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+34103,Sphaerotilus natans,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+343,Xanthomonas translucens,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+343874,Empedobacter falsenii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+346,Xanthomonas citri,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+347,Xanthomonas oryzae,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+347202,Arthrobacter sp. 31.31,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+347208,Arthrobacter sp. J3.37,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,TRUE,In contam list,Decontam high certainty
+347209,Arthrobacter sp. J3.40,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+347213,Arthrobacter sp. J3.49,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+348043,Streptomyces davaonensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+348824,Rhizobium favelukesii,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+348826,Natronorubrum aibiense,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+349751,Corynebacterium marinum,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+349971,Streptomyces sp. FR1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+353,Azotobacter chroococcum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+353800,Halostagnicola larsenii,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+35703,Citrobacter amalonaticus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+357276,Phocaeicola dorei,TRUE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+35742,Haloarcula sinaiiensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+35746,Haloferax gibbonsii,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+358,Agrobacterium tumefaciens,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+35806,Rhodovulum sulfidophilum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+35814,Bordetella holmesii,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+359,Rhizobium rhizogenes,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+361575,Pseudarthrobacter phenanthrenivorans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+362257,Streptomyces vietnamensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+364317,Verminephrobacter eiseniae,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+366602,Caulobacter sp. K31,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+367825,Cupriavidus malaysiensis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+36808,Corynebacterium bovis,TRUE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+36809,Mycobacteroides abscessus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+36822,Gordonia rubripertincta,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+371601,Bacteroides xylanisolvens,FALSE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+373,Agrobacterium vitis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+373068,Corynebacterium sp. L2-79-05,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+37329,Nocardia farcinica,FALSE,FALSE,FALSE,FALSE,0.5,TRUE,TRUE,None,Decontam high certainty
+373687,Paenibacillus sonchi,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+373891,Flammeovirga kamogawensis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+374106,Campylobacter cuniculorum,TRUE,TRUE,FALSE,FALSE,0.9,FALSE,NA,In oral list,Decontam & Abundance
+374162,Nostoc carneum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+374606,Aminobacter sp. MSH1,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+374981,Picosynechococcus sp. PCC 7003,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+374982,Picosynechococcus sp. PCC 73109,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+375175,Loigolactobacillus backii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+375489,Paenibacillus cellulosilyticus,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+375549,Sinorhizobium mexicanum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+376,Bradyrhizobium sp.,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+37636,Thermus scotoductus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+376418,Micrococcus sp. A7,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+37734,Enterococcus casseliflavus,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+377615,Thermobacillus composti,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+37919,Rhodococcus opacus,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil
+37921,Arthrobacter agilis,FALSE,FALSE,TRUE,FALSE,0.5,TRUE,TRUE,In contam list,Decontam high certainty
+37927,Sinomonas atrocyanea,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+37928,Arthrobacter crystallopoietes,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+37929,Glutamicibacter nicotianae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+37930,Glutamicibacter protophormiae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+37931,Paenarthrobacter ureafaciens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+379347,Tritonibacter mobilis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+379684,Allorhizobium pseudoryzae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+380,Sinorhizobium fredii,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+381,Mesorhizobium loti,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+382,Sinorhizobium meliloti,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+38289,Corynebacterium jeikeium,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+38293,Photobacterium damselae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+38313,Shewanella algae,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+384,Rhizobium leguminosarum,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+386490,Terribacillus goriensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+387343,Halopiger xanaduensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+388357,Kocuria turfanensis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+388950,Pontibacter akesuensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+389348,Candidatus Protochlamydia naegleriophila,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+39152,Methanococcus maripaludis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+391905,Methylocystis heyeri,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+39478,Streptomyces laurentii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+39485,Lachnospira eligens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+39488,Anaerobutyricum hallii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+394958,Clostridium taeniosporum,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+395961,Cyanothece sp. PCC 7425,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+396,Rhizobium phaseoli,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+396015,Rothia terrae,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+39645,Mesorhizobium ciceri,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+396595,Thioalkalivibrio sp. K90mix,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+39664,Methanohalophilus portucalensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+39689,Mycobacterium gallinarum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+39694,Mycolicibacterium poriferae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+397260,Sphingomonas sanxanigenens,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+398,Rhizobium tropici,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+399,Neorhizobium galegae,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+399497,Tessaracoccus flavescens,FALSE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+399742,Enterobacter sp. 638,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+401472,Corynebacterium ureicelerivorans,TRUE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+401562,Aureimonas ureilytica,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+40214,Acinetobacter johnsonii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+40216,Acinetobacter radioresistens,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+402236,Rhodococcus sp. NS1,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+404582,Micrococcus sp. V7,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+404583,Micrococcus sp. A1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+405041,Streptomyces sp. HK1,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+40576,Xenorhabdus bovienii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+406548,Aquisphaera giovannonii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+406552,Natrinema sp. J7-2,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+407020,Sphingobium sp. MI1205,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+408,Methylorubrum extorquens,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+408956,Flavobacterium sp. KI723T1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+41170,Exiguobacterium acetylicum,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+41202,Ewingella americana,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+412384,Priestia aryabhattai,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+412963,Mycetohabitans rhizoxinica,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+413497,Cronobacter dublinensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+413503,Cronobacter malonaticus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+413810,Halalkalicoccus jeotgali,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+414778,Planococcus donghaensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+415095,Arthrobacter sp. AK-1,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+41675,Stygiolobus azoricus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+418223,Methylobacterium phyllosphaerae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+41899,Burkholderia plantarii,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+420953,Paraburkholderia megapolitana,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+42256,Rubrobacter radiotolerans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+42443,Roseobacter litoralis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+42444,Marinovum algicola,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+424800,Sphingomonas insulae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+426,Methylosinus trichosporium,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+426114,Thiomonas arsenitoxydans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+426117,Methylobacterium sp. 4-46,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+42684,Streptomyces collinus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+42862,Rickettsia felis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+42906,Serratia entomophila,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+430451,Sinorhizobium sp. M14,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+43080,Sulfolobus islandicus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+430914,Halorhabdus tiamatea,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+431306,Acetobacter ghanensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+432329,Deinococcus peraridilitoris,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+43263,Pseudomonas alcaligenes,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+43305,Butyrivibrio proteoclasticus,TRUE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+43348,Mycobacterium branderi,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+434008,Variovorax sp. PBS-H4,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+434010,Hydrogenophaga sp. PBL-H3,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+434014,Variovorax sp. PBL-E5,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+435,Acetobacter aceti,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+43663,Paenarthrobacter aurescens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+43767,Prescottella equi,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+43770,Corynebacterium striatum,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+437897,Megamonas funiformis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+438,Acetobacter pasteurianus,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+442,Gluconobacter oxydans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+442694,Xanthomonas perforans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+444444,Chelatococcus daeguensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+446,Legionella pneumophila,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+446679,Nostoc sphaeroides,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+446860,Kocuria flava,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+447032,Arthrobacter sp. Chr15,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+448181,Ciceribacter selenitireducens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+44930,Natronobacterium gregoryi,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+450,Legionella longbeachae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+450378,Croceicoccus marinus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+45056,Legionella adelaidensis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+451514,Candidatus Magnetococcus massalia,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+451876,Rhizobium rhizoryzae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+45361,Mesomycoplasma conjunctivae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+453842,Paracoccus aestuarii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+454601,Maritalea myrionectae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+455432,Nocardia terpenica,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+45610,Psychrobacter urativorans,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+456327,Xanthomonas euvesicatoria,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+45658,Vibrio scophthalmi,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+45668,Halobacillus litoralis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+459472,Planococcus glaciei,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+45972,Staphylococcus pasteuri,TRUE,TRUE,TRUE,FALSE,0.9,FALSE,NA,In both,Decontam & Abundance
+46234,Anabaena sp. 90,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+46257,Pseudomonas avellanae,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+463014,Bordetella flabilis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+46429,Sphingobium chlorophenolicum,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+465541,Streptomyces sp. Mg1,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+466153,Singulisphaera acidiphila,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+46680,Pseudomonas nitroreducens,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+470,Acinetobacter baumannii,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+470933,Pantoea eucalypti,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+470934,Pantoea vagans,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+471223,Geobacillus sp. WCH70,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+472,Acinetobacter sp.,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+47304,Metallosphaera prunae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+473531,Nitrosococcus watsonii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+47421,Hydrogenophaga pseudoflava,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+47466,Borrelia miyamotoi,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+475375,Francisella sp. MA067296,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+476,Moraxella bovis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+47770,Lactobacillus crispatus,TRUE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+47874,Micromonospora rosaria,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+47877,Pseudomonas amygdali,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+47880,Pseudomonas fulva,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+47885,Pseudomonas oryzihabitans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+47886,Pseudomonas luteola,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+47917,Serratia fonticola,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+480035,Nocardia wallacei,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+481146,Acetobacter ascendens,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+482462,Mycobacterium dioxanotrophicus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+482564,Oscillatoria nigro-viridis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+48296,Acinetobacter pittii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+483547,Geoalkalibacter subterraneus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+484429,Sphingobium sp. YBL2,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+485,Neisseria gonorrhoeae,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+486,Neisseria lactamica,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+486398,Bacillus sp. S3,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+48664,Xanthomonas fragariae,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+487,Neisseria meningitidis,TRUE,TRUE,FALSE,FALSE,0.5,TRUE,TRUE,In oral list,Decontam high certainty
+487316,Acinetobacter soli,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+488142,Serratia sp. SCBI,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+488446,Burkholderia latens,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+488447,Burkholderia contaminans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+48935,Novosphingobium aromaticivorans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+492670,Bacillus velezensis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+49899,Thermococcus profundus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+49982,Sporosarcina sp.,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+500,Thermomicrobium roseum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+502394,Deinococcus gobiensis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+505,Kingella oralis,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+50719,Vibrio diabolicus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+508451,Lactobacillus taiwanensis,TRUE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+511,Alcaligenes faecalis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+511062,Oceanimonas sp. GK1,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+512649,Vibrio azureus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+512763,Rufibacter tibetensis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+51367,Salinivibrio costicola,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+515393,Pseudomonas yamanorum,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+51665,Aerococcus urinaeequi,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+51669,Tetragenococcus halophilus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+519,Bordetella parapertussis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+519472,Vagococcus teuberi,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+520,Bordetella pertussis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+52022,Allomeiothermus silvanus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+520734,Sphingobium sp. RSMS,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+524,Acidiphilium cryptum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+526944,Tetragenococcus osmophilus,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+529,Brucella anthropi,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+530584,Prauserella marina,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+533,Beijerinckia indica,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+53346,Enterococcus mundtii,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+53409,Pseudomonas coronafaciens,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+53413,Xanthomonas axonopodis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+53451,Streptomyces rutgersensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+53501,Thalassovita gelatinovora,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+535744,Cronobacter universalis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+536,Chromobacterium violaceum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+539,Eikenella corrodens,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+53946,Octadecabacter arcticus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+53952,Thermococcus peptonophilus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+53953,Pyrococcus horikoshii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+539813,Enterobacter mori,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+540747,Roseovarius indicus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+542,Zymomonas mobilis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+54248,Hyperthermus butylicus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+54252,Pyrolobus fumarii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+54262,Thermococcus chitonophagus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+54291,Raoultella ornithinolytica,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+54299,Chroococcidiopsis thermalis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+543886,Saccharopolyspora endophytica,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+544580,Actinomyces oris,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,FALSE,In both,Decontam & Soil
+54571,Streptomyces venezuelae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+545908,Pseudomonas sp. LM8,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+546,Citrobacter freundii,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+546160,Dietzia lutea,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+547188,Phycisphaera mikurensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+548,Klebsiella aerogenes,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+549,Pantoea agglomerans,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+550,Enterobacter cloacae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+55148,Deinococcus proteolyticus,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+551760,Aromatoleum aromaticum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+552,Erwinia amylovora,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+55209,Pantoea cypripedii,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+55211,Erwinia persicina,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+55212,Erwinia rhapontici,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+553,Pantoea ananatis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+553814,Acidovorax carolinensis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+553982,Allochromatium tepidum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+554,Pectobacterium carotovorum,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+554406,Leptotrichia hongkongensis,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+55518,Magnetospirillum gryphiswaldense,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+55601,Vibrio anguillarum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+55802,Thermococcus barophilus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+558537,Delftia lacustris,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+561184,Mameliella alba,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+56193,Sphingobium chungbukense,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+562,Escherichia coli,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+562959,Paenibacillus cellulositrophicus,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+564,Escherichia fergusonii,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+564137,Roseicitreum antarcticum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+56453,Xanthomonas cucurbitae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+56454,Xanthomonas hortorum,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+56458,Xanthomonas sacchari,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+56459,Xanthomonas vasicola,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+56460,Xanthomonas vesicatoria,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+56464,Xanthomonas theicola,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+565560,Streptomyces sp. SM17,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+56730,Rhizobium gallicum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+56811,Psychrobacter sp.,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+56877,Helicobacter bizzozeronii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+569,Hafnia alvei,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+56956,Thermus brockianus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+56957,Thermus oshimai,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+571,Klebsiella oxytoca,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+571256,Brucella pituitosa,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+571915,Corynebacterium mustelae,TRUE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+573,Klebsiella pneumoniae,FALSE,FALSE,FALSE,FALSE,0.5,TRUE,TRUE,None,Decontam high certainty
+57320,Pseudodesulfovibrio profundus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+573737,Pandoraea oxalativorans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+574987,Gluconobacter sphaericus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+575,Raoultella planticola,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+575200,Corynebacterium maris,TRUE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+57704,Tsukamurella tyrosinosolvens,FALSE,FALSE,FALSE,FALSE,0.5,TRUE,TRUE,None,Decontam high certainty
+57705,Halomicrobium mukohataei,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+57975,Burkholderia thailandensis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+580165,Bacillus cytotoxicus,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+58169,Rahnella inusitata,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+58172,Paenibacillus sp.,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+582,Morganella morganii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+58290,Archaeoglobus veneficus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+584,Proteus mirabilis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+586416,Terribacillus aidingensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+587,Providencia rettgeri,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+587753,Pseudomonas chlororaphis,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+588898,Natronorubrum daqingense,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+589437,Prevotella scopos,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+592316,Pantoea sp. At-9b,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+59512,Planktothrix rubescens,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+595605,Sphingobium wenxiniae,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+59779,Paracoccus marcusii,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+59814,Pantoea dispersa,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+59893,Paenibacillus peoriae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+599,Salmonella sp.,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+60137,Sulfitobacter pontiacus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+60548,Paraburkholderia graminis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+60550,Burkholderia pyrrocinia,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+60552,Burkholderia vietnamiensis,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+60847,Halogeometricum borinquense,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+60890,Phaeobacter gallaeciensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+614,Serratia liquefaciens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+615,Serratia marcescens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+61645,Enterobacter asburiae,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+61646,Lelliottia amnigena,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+61647,Pluralibacter gergoviae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+61858,Natronorubrum bangense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+621,Shigella boydii,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+621376,Pseudoalteromonas donghaensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+62140,Acidiphilium multivorum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+622,Shigella dysenteriae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+62320,Haloterrigena turkmenica,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+62322,Shewanella baltica,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+626932,Alistipes indistinctus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+627192,Sphingobium sp. SYK-6,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+63,Vitreoscilla filiformis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+630,Yersinia enterocolitica,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+632,Yersinia pestis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+633,Yersinia pseudotuberculosis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+634157,Halorubrum sp. PV6,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+63561,Desulfolutivibrio sulfodismutans,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+638,Arsenophonus nasoniae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+639313,Hoyosella subflava,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+64104,Bacillus pseudomycoides,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+644,Aeromonas hydrophila,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+645,Aeromonas salmonicida,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+646,Aeromonas sobria,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+64642,Tetragenococcus muriaticus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+648,Aeromonas caviae,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+648995,Agrobacterium pusense,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+649841,Sulfuricella denitrificans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+650,Aeromonas jandaei,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+651,Aeromonas media,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+651143,Fibrella aestuarina,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+652716,Prevotella sp. oral taxon 299,TRUE,TRUE,FALSE,TRUE,0.9,TRUE,TRUE,In oral list,Passing
+652764,Azospirillum sp. TSH100,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+654,Aeromonas veronii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+655015,Methylocystis bryophila,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+656178,Pandoraea vervacti,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+656179,Pandoraea faecigallinarum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+656366,Arthrobacter alpinus,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+658666,Bacillus bombysepticus,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+659352,Streptomyces sp. SN-593,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+65959,Acetobacter pomorum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+660522,Haloplanus aerogenes,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+661191,Neokomagataea tanensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+662548,Variovorax sp. RA8,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+66269,Pantoea stewartii,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+663,Vibrio alginolyticus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+663275,Fibrisoma limi,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+664426,Sulfitobacter sp. BSw21498,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+664662,Borreliella bavariensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+664962,Azospirillum sp. TSH58,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+665007,Streptomyces incarnatus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+665099,Cytobacillus oceanisediminis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+666,Vibrio cholerae,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+668,Aliivibrio fischeri,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+66871,Streptomyces aureoverticillatus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+670,Vibrio parahaemolyticus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+670052,Cryobacterium arcticum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+67081,Mycolicibacterium alvei,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+672,Vibrio vulnificus,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+67267,Streptomyces alboflavus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+672794,Cardinium endosymbiont of Bemisia tabaci,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+67296,Streptomyces finlayi,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+673372,Vibrio casei,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+67351,Streptomyces californicus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+674,Vibrio mimicus,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+67581,Streptomyces viridosporus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+67760,Methanocaldococcus infernus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+680,Vibrio campbellii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+681157,Phaeobacter sp. LSS9,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+68203,Streptomyces fungicidicus,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+68209,Streptomyces globosus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+68223,Streptomyces katrae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+68239,Streptomyces mirabilis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+682410,Streptomyces sp. W9,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+68280,Streptomyces violaceusniger,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+682998,Azospirillum ramasamyi,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+683846,Fervidicoccus fontis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+685565,Pseudanabaena sp. ABRG5-3,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+686597,Martelella sp. AD-3,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+68892,Streptococcus infantis,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+68895,Cupriavidus basilensis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+689,Vibrio mediterranei,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+68909,Deinococcus geothermalis,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+69328,Pseudomonas sp. VLB120,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+69373,Curtobacterium pusillum,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+69395,Caulobacter henricii,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+69525,Natrinema pellirubrum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+69527,Natrinema pallidum,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+696485,Vibrio owensii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+69665,Caulobacter sp. FWC26,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+699041,Corynebacterium hindlerae,TRUE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+699433,Halobellus limi,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+69964,Azotobacter salinestris,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+701042,Mycobacterium marseillense,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,FALSE,None,Decontam & Soil
+702113,Novosphingobium sp. PP1Y,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+702114,Methylomonas koyamae,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+70255,Staphylococcus condimenti,TRUE,TRUE,TRUE,FALSE,0.3,TRUE,TRUE,In both,Decontam low certainty
+703,Plesiomonas shigelloides,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+70771,Pyrobaculum neutrophilum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+70799,Nodularia spumigena,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+70863,Shewanella oneidensis,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+709810,Azospirillum sp. TSA2s,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+712150,Aggregatibacter sp. oral taxon 513,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+712270,Dietzia sp. oral taxon 368,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+712362,Leptotrichia sp. oral taxon 221,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+712624,Streptococcus sp. oral taxon 064,TRUE,TRUE,TRUE,FALSE,0.1,TRUE,TRUE,In both,Decontam low certainty
+713030,Selenomonas sp. oral taxon 136,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+714,Aggregatibacter actinomycetemcomitans,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+71433,Mesorhizobium amorphae,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+715,Actinobacillus pleuropneumoniae,FALSE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+716925,Sinorhizobium sojae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+71999,Kocuria palustris,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+72557,Achromobacter ruhlandii,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,FALSE,In contam list,Decontam & Soil
+727,Haemophilus influenzae,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+729,Haemophilus parainfluenzae,TRUE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,In oral list,Decontam low certainty
+730,[Haemophilus] ducreyi,TRUE,TRUE,FALSE,FALSE,0.9,FALSE,NA,In oral list,Decontam & Abundance
+73044,Streptomyces seoulensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+735,Haemophilus parahaemolyticus,TRUE,TRUE,FALSE,FALSE,0.9,FALSE,NA,In oral list,Decontam & Abundance
+738,Glaesserella parasuis,FALSE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+739141,Methylobacterium sp. XJLW,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+74033,Antarctobacter heliothermus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+74349,Sulfitobacter guttiformis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+74426,Collinsella aerofaciens,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+745310,Sphingomonas sp. MM-1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+747,Pasteurella multocida,FALSE,TRUE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+747457,Pseudoalteromonas sp. SANK 73390,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+748247,Azoarcus sp. KH32C,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+74969,Ferroplasma acidiphilum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+75105,Paraburkholderia caribensis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,FALSE,None,Soil
+751944,Halobacterium sp. DL1,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+75293,Streptomyces autolyticus,FALSE,FALSE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+754477,Methylophaga frappieri,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+755307,Salinigranum rubrum,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+75612,Pseudomonas mandelii,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+756892,Acinetobacter indicus,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,TRUE,In contam list,Decontam high certainty
+758782,Burkholderia sp. THE68,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+758793,Caballeronia insecticola,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+758796,Burkholderia sp. RPE67,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+75985,Mannheimia haemolytica,FALSE,TRUE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+760,Pasteurella stomatis,FALSE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+76258,Vibrio rumoiensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+76335,Nostoc sp. ATCC 53789,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+76629,Mycoplasmopsis gallopavonis,TRUE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+76758,Pseudomonas orientalis,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,FALSE,In contam list,Soil
+76759,Pseudomonas monteilii,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+76761,Pseudomonas veronii,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+76853,Solibacillus silvestris,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+76885,Pseudomonas sp. K-62,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+76947,Sphingobium herbicidovorans,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+78398,Pectobacterium odoriferum,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+785,Rickettsia typhi,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+78543,Pseudomonas migulae,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+78587,Asticcacaulis excentricus,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+794846,Sinorhizobium sp. CCBAU 05631,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+79885,Alkalihalophilus pseudofirmus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+80679,Thioflavicoccus mobilis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+80866,Delftia acidovorans,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+80869,Paracidovorax citrulli,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+81479,Rhodoferax antarcticus,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+817,Bacteroides fragilis,FALSE,TRUE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+818,Bacteroides thetaiotaomicron,FALSE,TRUE,FALSE,FALSE,0.9,TRUE,TRUE,None,Decontam high certainty
+820,Bacteroides uniformis,FALSE,TRUE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+82367,Paracoccus pantotrophus,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,FALSE,In contam list,Decontam & Soil
+82541,Cupriavidus gilardii,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+82633,Cupriavidus pauculus,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+82654,Pseudanabaena sp. PCC 7367,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+82996,Serratia plymuthica,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+83219,Sulfitobacter mediterraneus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+83263,Aminobacter aminovorans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+83561,Simkania negevensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+83564,Desulfosarcina ovata,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+83655,Leclercia adecarboxylata,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+83656,Streptomyces tsukubensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+83683,Lactobacillus amylolyticus,TRUE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+83986,Methanoculleus bourgensis,FALSE,FALSE,FALSE,TRUE,0.9,TRUE,TRUE,None,Passing
+84096,Gordonia alkanivorans,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+84156,Archaeoglobus profundus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+84292,Microbacterium chocolatum,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+84595,Gordonia polyisoprenivorans,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+84599,Staphylothermus hellenicus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+84980,Desulfotalea psychrophila,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+849864,Sphingomonas sp. SH,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,TRUE,In contam list,Decontam high certainty
+85085,Pseudarthrobacter chlorophenolicus,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+851,Fusobacterium nucleatum,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+856,Fusobacterium varium,TRUE,TRUE,FALSE,FALSE,0.3,FALSE,NA,In oral list,Decontam & Abundance
+85698,Achromobacter xylosoxidans,FALSE,FALSE,TRUE,FALSE,0.5,TRUE,TRUE,In contam list,Decontam high certainty
+859143,Cytobacillus kochii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+861299,Gemmatirosa kalamazoonensis,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+86185,Pseudomonas lundensis,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+86265,Pseudomonas thivervalensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+86664,Priestia flexa,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+867076,Paenibacillus sp. IHB B 3084,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+86840,Pseudomonas cannabina,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+869886,Halosimplex pelagicum,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+875171,Celeribacter baekdonensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+876364,Cupriavidus sp. USMAA2-4,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+87883,Burkholderia multivorans,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,TRUE,In contam list,Decontam low certainty
+879,Megalodesulfovibrio gigas,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+879274,Shinella sp. HZN7,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+881,Nitratidesulfovibrio vulgaris,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+881260,Enterobacter bugandensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+88233,Lacticaseibacillus manihotivorans,TRUE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+882626,Pseudoalteromonas xiamenensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+885040,Enterobacter soli,FALSE,FALSE,TRUE,FALSE,0.3,FALSE,NA,In contam list,Decontam & Abundance
+88688,Caulobacter segnis,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+887059,Bacillus sp. BS-02,FALSE,FALSE,TRUE,FALSE,0.9,TRUE,TRUE,In contam list,Decontam high certainty
+88724,Natrinema versiforme,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+88773,Halobacterium sp. GN101,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+88916,Borreliella spielmanii,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+89184,Ruegeria pomeroyi,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+9,Buchnera aphidicola,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+90322,Sphingomonas sp. A1,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+904291,Microbacterium sediminis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+911045,Pseudovibrio sp. FO-BEG1,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+912,Nitrobacter hamburgensis,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,FALSE,None,Decontam & Soil
+912801,Dietzia sp. DQ12-45-1b,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,TRUE,In contam list,Decontam low certainty
+916,Nitrosomonas eutropha,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+920,Acidithiobacillus ferrooxidans,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+925818,Methylobacterium sp. AMS5,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+926,Thiomonas intermedia,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+92644,Streptomyces malaysiensis,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+92942,Nostoc linckia,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,FALSE,None,Decontam & Soil
+92945,Ketogulonicigenium vulgare,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+92947,Ketogulonicigenium robustum,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+93064,Sphingomonas koreensis,FALSE,FALSE,TRUE,FALSE,0.3,TRUE,FALSE,In contam list,Decontam & Soil
+930805,Halioglobus japonicus,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+930806,Halioglobus pacificus,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+93220,Pandoraea pnomenusa,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+93378,Edwardsiella hoshinae,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+935199,Rhodococcus sp. p52,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+936337,Microbacterium amylolyticum,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+936902,Micrococcus sp. MG-2010-D12,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+938406,Calothrix brevissima,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,FALSE,None,Decontam & Soil
+93944,Nonomuraea gerenzanensis,FALSE,FALSE,FALSE,FALSE,0.3,TRUE,TRUE,None,Decontam low certainty
+940615,Granulicella tundricola,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+94122,Shewanella sp. ANA-3,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+94694,Desulfurococcus amylolyticus,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+948107,Paraburkholderia sprentiae,FALSE,FALSE,FALSE,FALSE,0.05,TRUE,TRUE,None,Decontam low certainty
+95486,Burkholderia cenocepacia,FALSE,FALSE,TRUE,FALSE,0.1,TRUE,TRUE,In contam list,Decontam low certainty
+96230,Legionella fallonii,FALSE,FALSE,FALSE,FALSE,0.3,FALSE,NA,None,Decontam & Abundance
+96344,Cupriavidus oxalaticus,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil
+964,Herbaspirillum seropedicae,FALSE,FALSE,TRUE,FALSE,0.9,FALSE,NA,In contam list,Decontam & Abundance
+971,Selenomonas ruminantium,TRUE,TRUE,FALSE,FALSE,0.1,TRUE,TRUE,In oral list,Decontam low certainty
+980427,Deinococcus wulumuqiensis,FALSE,FALSE,TRUE,FALSE,0.5,TRUE,TRUE,In contam list,Decontam high certainty
+985002,Staphylococcus argenteus,TRUE,TRUE,TRUE,FALSE,0.9,FALSE,NA,In both,Decontam & Abundance
+985052,Vulcanisaeta moutnovskia,FALSE,FALSE,FALSE,FALSE,0.1,TRUE,TRUE,None,Decontam low certainty
+991904,Polymorphum gilvum,FALSE,FALSE,FALSE,FALSE,0.9,FALSE,NA,None,Decontam & Abundance
+996,Flavobacterium columnare,FALSE,FALSE,TRUE,TRUE,0.9,TRUE,TRUE,In contam list,Passing
+99653,Rhodococcus koreensis,FALSE,FALSE,TRUE,FALSE,0.05,TRUE,FALSE,In contam list,Decontam & Soil

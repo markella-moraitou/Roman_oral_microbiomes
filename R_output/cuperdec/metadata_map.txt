@@ -1,0 +1,94 @@
+Sample	Sample_Source
+1	RDC_4_H31	Human
+2	RDC_6_EB12	Ext Blank
+3	RDC_2_H8	Human
+4	RDC_6_H68	Human
+5	RDC_2_H6	Human
+6	RDC_2_H11	Human
+7	RDC_5_H57	Human
+8	RDC_4_EB7	Ext Blank
+9	RDC_2_H3	Human
+10	RDC_5_H48	Human
+11	RDC_6_H71	Human
+12	RDC_6_S8	Soil
+13	RDC_4_EB8	Ext Blank
+14	RDC_5_H43	Human
+15	RDC_3_H15	Human
+16	RDC_6_LP_B12	LP Blank
+17	RDC_3_S4	Soil
+18	RDC_5_H46	Human
+19	RDC_4_H30	Human
+20	RDC_4_H40	Human
+21	RDC_6_EB11	Ext Blank
+22	RDC_3_H23	Human
+23	RDC_2_S3	Soil
+24	RDC_3_H22	Human
+25	RDC_3_H14	Human
+26	RDC_5_H55	Human
+27	RDC_4_S5	Soil
+28	RDC_6_H62	Human
+29	RDC_5_H52	Human
+30	RDC_4_H29	Human
+31	RDC_4_H33	Human
+32	RDC_4_H32	Human
+33	RDC_1_S2	Soil
+34	RDC_5_EB9	Ext Blank
+35	RDC_6_H65	Human
+36	RDC_2_H5	Human
+37	RDC_4_H41	Human
+38	RDC_5_H58	Human
+39	RDC_4_H38	Human
+40	RDC_3_EB6	Ext Blank
+41	RDC_6_H67	Human
+42	RDC_4_H28	Human
+43	RDC_5_LP_B10	LP Blank
+44	RDC_2_LP_B4	LP Blank
+45	RDC_5_H44	Human
+46	RDC_4_H26	Human
+47	RDC_5_H54	Human
+48	RDC_6_H66	Human
+49	RDC_3_H13	Human
+50	RDC_4_H37	Human
+51	RDC_2_H10	Human_high_soil
+52	RDC_1_H1	Human
+53	RDC_4_H39	Human_high_soil
+54	RDC_1_EB2	Ext Blank
+55	RDC_2_H4	Human
+56	RDC_5_H49	Human
+57	RDC_2_H7	Human
+58	RDC_3_H16	Human
+59	RDC_6_H69	Human
+60	RDC_2_EB3	Ext Blank
+61	RDC_4_S6	Soil
+62	RDC_6_H63	Human
+63	RDC_5_H56	Human
+64	RDC_5_S7	Soil
+65	RDC_6_H64	Human
+66	RDC_1_H2	Human
+67	RDC_5_EB10	Ext Blank
+68	RDC_5_H53	Human
+69	RDC_5_H50	Human
+70	RDC_3_H18	Human
+71	RDC_6_H70	Human
+72	RDC_3_H21	Human_high_soil
+73	RDC_1_S1	Soil
+74	RDC_5_H61	Human
+75	RDC_4_H42	Human_high_soil
+76	RDC_3_H12	Human
+77	RDC_5_H51	Human
+78	RDC_4_H35	Human
+79	RDC_6_H72	Human
+80	RDC_4_H25	Human
+81	RDC_3_H17	Human
+82	RDC_3_H24	Human_high_soil
+83	RDC_5_H59	Human
+84	RDC_3_H20	Human
+85	RDC_5_H47	Human
+86	RDC_5_H45	Human
+87	RDC_4_H27	Human
+88	RDC_3_EB5	Ext Blank
+89	RDC_2_H9	Human
+90	RDC_3_H19	Human
+91	RDC_5_H60	Human
+92	RDC_4_H34	Human
+93	RDC_4_H36	Human

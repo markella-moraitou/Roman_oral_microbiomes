@@ -1,0 +1,146 @@
+"X","Combination","Taxon","Software","Tax_Level","tax_id"
+1,"Alouatta","Actinobacillus pleuropneumoniae","MALT","species",715
+2,"Alouatta","Campylobacter curvus","MALT","species",200
+3,"Alouatta","Capnocytophaga sp. ChDC OS43","MALT","species",209053
+4,"Alouatta","Fusobacterium sp. oral taxon 203","MALT","species",671211
+5,"Alouatta","Glaesserella parasuis","MALT","species",738
+6,"Alouatta","Haemophilus parainfluenzae","MALT","species",729
+7,"Alouatta","Histophilus somni","MALT","species",731
+8,"Alouatta","Kingella kingae","MALT","species",504
+9,"Alouatta","Mannheimia haemolytica","MALT","species",75985
+10,"Alouatta","Mannheimia varigena","MALT","species",85404
+11,"Alouatta","Neisseria weaveri","MALT","species",28091
+12,"Alouatta","Neisseria zoodegmatis","MALT","species",326523
+13,"Alouatta","Selenomonas sp. oral taxon 136","MALT","species",713030
+14,"Alouatta","Selenomonas sp. oral taxon 920","MALT","species",1884263
+15,"Alouatta","Streptococcus acidominimus","MALT","species",1326
+16,"Alouatta","Streptococcus dysgalactiae","MALT","species",1334
+17,"Alouatta","Streptococcus gallolyticus","MALT","species",315405
+18,"Alouatta","Streptococcus himalayensis","MALT","species",1888195
+19,"Alouatta","Streptococcus infantarius","MALT","species",102684
+20,"Alouatta","Streptococcus marmotae","MALT","species",1825069
+21,"Alouatta","Streptococcus merionis","MALT","species",400065
+22,"Alouatta","Streptococcus pantholopis","MALT","species",1811193
+23,"Alouatta","Streptococcus pseudopneumoniae","MALT","species",257758
+24,"Alouatta","Streptococcus pyogenes","MALT","species",1314
+25,"Alouatta","Streptococcus salivarius","MALT","species",1304
+26,"Alouatta","Streptococcus sp. A12","MALT","species",1759399
+27,"Alouatta","Streptococcus sp. I-G2","MALT","species",1156431
+28,"Alouatta","Streptococcus sp. I-P16","MALT","species",1156433
+29,"Alouatta","Streptococcus sp. NPS 308","MALT","species",1902136
+30,"Alouatta","Streptococcus sp. oral taxon 064","MALT","species",712624
+31,"Alouatta","Streptococcus sp. oral taxon 431","MALT","species",712633
+32,"Alouatta","Streptococcus sp. VT 162","MALT","species",NA
+33,"Alouatta","Streptococcus thermophilus","MALT","species",1308
+34,"Alouatta","Tessaracoccus aquimaris","MALT","species",1332264
+35,"Alouatta","Tessaracoccus flavescens","MALT","species",399497
+36,"Alouatta","Tessaracoccus flavus","MALT","species",1610493
+37,"Alouatta","Tessaracoccus sp. T2.5-30","MALT","species",1909732
+38,"Alouatta","Veillonella rodentium","MALT","species",248315
+39,"Pan","[Eubacterium] sulci","MALT","species",143393
+40,"Pan","Adlercreutzia equolifaciens","MALT","species",446660
+41,"Pan","Atopobium parvulum","MALT","species",NA
+42,"Pan","Bacteroides fragilis","MALT","species",817
+43,"Pan","Candidatus Methanomethylophilus alvus","MALT","species",1291540
+44,"Pan","Clostridioides difficile","MALT","species",1496
+45,"Pan","Coriobacteriaceae bacterium 68-1-3","MALT","species",1531429
+46,"Pan","Cryptobacterium curtum","MALT","species",84163
+47,"Pan","Desulfobulbus propionicus","MALT","species",NA
+48,"Pan","Dialister pneumosintes","MALT","species",39950
+49,"Pan","Eggerthella lenta","MALT","species",84112
+50,"Pan","Faecalibacterium prausnitzii","MALT","species",853
+51,"Pan","Fermentimonas caenicola","MALT","species",1562970
+52,"Pan","Gordonibacter massiliensis","MALT","species",1841863
+53,"Pan","Gordonibacter pamelaeae","MALT","species",471189
+54,"Pan","Gordonibacter urolithinfaciens","MALT","species",1335613
+55,"Pan","Lawsonella clevelandensis","MALT","species",1528099
+56,"Pan","Libanicoccus massiliensis","MALT","species",1871022
+57,"Pan","methanogenic archaeon ISO4-H5","MALT","species",1495144
+58,"Pan","methanogenic archaeon mixed culture ISO4-G1","MALT","species",NA
+59,"Pan","Murdochiella vaginalis","MALT","species",1852373
+60,"Pan","Olsenella sp. Marseille-P2300","MALT","species",NA
+61,"Pan","Olsenella umbonata","MALT","species",604330
+62,"Pan","Prevotella dentalis","MALT","species",52227
+63,"Pan","Prevotella denticola","MALT","species",28129
+64,"Pan","Prevotella enoeca","MALT","species",76123
+65,"Pan","Pyramidobacter piscolens","MALT","species",NA
+66,"Pan","Slackia heliotrinireducens","MALT","species",84110
+67,"Pan","Thermoplasmatales archaeon BRNA1","MALT","species",1054217
+68,"Pan","Treponema pedis","MALT","species",409322
+69,"Pan","Treponema putidum","MALT","species",221027
+70,"Alouatta:Gorilla","[Mannheimia] succiniciproducens","MALT","species",157673
+71,"Alouatta:Gorilla","Acidipropionibacterium acidipropionici","MALT","species",1748
+72,"Alouatta:Gorilla","Actinobacillus succinogenes","MALT","species",67854
+73,"Alouatta:Gorilla","Aggregatibacter actinomycetemcomitans","MALT","species",714
+74,"Alouatta:Gorilla","Haemophilus influenzae","MALT","species",727
+75,"Alouatta:Gorilla","Haemophilus pittmaniae","MALT","species",249188
+76,"Alouatta:Gorilla","Neisseria gonorrhoeae","MALT","species",485
+77,"Alouatta:Gorilla","Neisseria lactamica","MALT","species",486
+78,"Alouatta:Gorilla","Neisseria sp. 10022","MALT","species",1853276
+79,"Alouatta:Gorilla","Neisseria sp. 10023","MALT","species",NA
+80,"Alouatta:Gorilla","Neisseria sp. KEM232","MALT","species",655307
+81,"Alouatta:Gorilla","Pasteurella multocida","MALT","species",747
+82,"Alouatta:Gorilla","Pasteurellaceae bacterium NI1060","MALT","species",1679001
+83,"Alouatta:Gorilla","Rothia aeria","MALT","species",172042
+84,"Alouatta:Gorilla","Rothia dentocariosa","MALT","species",2047
+85,"Alouatta:Gorilla","Rothia mucilaginosa","MALT","species",43675
+86,"Alouatta:Gorilla","Selenomonas sp. oral taxon 126","MALT","species",712528
+87,"Alouatta:Gorilla","Streptococcus agalactiae","MALT","species",1311
+88,"Alouatta:Gorilla","Streptococcus mitis","MALT","species",28037
+89,"Alouatta:Gorilla","Streptococcus mutans","MALT","species",1309
+90,"Alouatta:Gorilla","Streptococcus parasanguinis","MALT","species",1318
+91,"Alouatta:Gorilla","Streptococcus suis","MALT","species",1307
+92,"Alouatta:Gorilla","Streptococcus troglodytae","MALT","species",1111760
+93,"Alouatta:Gorilla:Pan:Homo","Actinomyces naeslundii","MALT","species",NA
+94,"Alouatta:Gorilla:Pan:Homo","Actinomyces oris","MALT","species",544580
+95,"Alouatta:Gorilla:Pan:Homo","Actinomyces radicidentis","MALT","species",111015
+96,"Alouatta:Gorilla:Pan:Homo","Actinomyces sp. Chiba101","MALT","species",1851395
+97,"Alouatta:Gorilla:Pan:Homo","Actinomyces sp. oral taxon 414","MALT","species",712122
+98,"Alouatta:Gorilla:Pan:Homo","Actinomyces succiniciruminis","MALT","species",NA
+99,"Alouatta:Gorilla:Pan:Homo","Campylobacter gracilis","MALT","species",824
+100,"Alouatta:Gorilla:Pan:Homo","Fusobacterium nucleatum","MALT","species",851
+101,"Alouatta:Gorilla:Pan:Homo","Ottowia sp. oral taxon 894","MALT","species",1658672
+102,"Alouatta:Gorilla:Pan:Homo","Prevotella intermedia","MALT","species",28131
+103,"Alouatta:Gorilla:Pan:Homo","Pseudopropionibacterium propionicum","MALT","species",1750
+104,"Alouatta:Gorilla:Pan:Homo","Streptococcus anginosus","MALT","species",1328
+105,"Alouatta:Gorilla:Pan:Homo","Streptococcus constellatus","MALT","species",76860
+106,"Alouatta:Gorilla:Pan:Homo","Streptococcus intermedius","MALT","species",1338
+107,"Alouatta:Gorilla:Pan:Homo","uncultured bacterium","MALT","species",NA
+108,"Alouatta:Gorilla:Homo","Aggregatibacter aphrophilus","MALT","species",732
+109,"Alouatta:Gorilla:Homo","Eikenella corrodens","MALT","species",539
+110,"Alouatta:Gorilla:Homo","Neisseria elongata","MALT","species",495
+111,"Alouatta:Gorilla:Homo","Neisseria meningitidis","MALT","species",487
+112,"Alouatta:Gorilla:Homo","Neisseria sicca","MALT","species",490
+113,"Alouatta:Gorilla:Homo","Streptococcus cristatus","MALT","species",45634
+114,"Alouatta:Gorilla:Homo","Streptococcus gordonii","MALT","species",1302
+115,"Alouatta:Gorilla:Homo","Streptococcus oralis","MALT","species",1303
+116,"Alouatta:Gorilla:Homo","Streptococcus pneumoniae","MALT","species",1313
+117,"Alouatta:Gorilla:Homo","Streptococcus sanguinis","MALT","species",1305
+118,"Pan:Homo","[Eubacterium] minutum","MALT","species",76124
+119,"Pan:Homo","Candidatus Saccharibacteria oral taxon TM7x","MALT","species",1476577
+120,"Pan:Homo","Desulfomicrobium orale","MALT","species",132132
+121,"Pan:Homo","Filifactor alocis","MALT","species",143361
+122,"Pan:Homo","Mogibacterium pumilum","MALT","species",86332
+123,"Pan:Homo","Parvimonas micra","MALT","species",33033
+124,"Pan:Homo","Porphyromonas gingivalis","MALT","species",837
+125,"Pan:Homo","Tannerella sp. oral taxon HOT-286","MALT","species",712710
+126,"Pan:Homo","Treponema denticola","MALT","species",158
+127,"Pan:Homo","Treponema sp. OMZ 838","MALT","species",1539298
+128,"Gorilla:Pan:Homo","Actinomyces hongkongensis","MALT","species",NA
+129,"Gorilla:Pan:Homo","Actinomyces meyeri","MALT","species",NA
+130,"Gorilla:Pan:Homo","Anaerolineaceae bacterium oral taxon 439","MALT","species",1889813
+131,"Gorilla:Pan:Homo","Fretibacterium fastidiosum","MALT","species",NA
+132,"Gorilla:Pan:Homo","Olsenella sp. oral taxon 807","MALT","species",712411
+133,"Gorilla:Pan:Homo","Olsenella uli","MALT","species",133926
+134,"Gorilla:Pan:Homo","Tannerella forsythia","MALT","species",28112
+135,"Alouatta:Homo","Capnocytophaga gingivalis","MALT","species",1017
+136,"Alouatta:Homo","Capnocytophaga sputigena","MALT","species",1019
+137,"Alouatta:Homo","Leptotrichia buccalis","MALT","species",40542
+138,"Alouatta:Homo","Leptotrichia sp. oral taxon 212","MALT","species",712357
+139,"Alouatta:Gorilla:Pan","Propionibacterium freudenreichii","MALT","species",1744
+140,"Alouatta:Gorilla:Pan","Streptococcus equi","MALT","species",1336
+141,"Gorilla","Staphylococcus saprophyticus","MALT","species",29385
+142,"Gorilla","Staphylococcus xylosus","MALT","species",1288
+143,"Alouatta:Pan","Fusobacterium hwasookii","MALT","species",1583098
+144,"Alouatta:Pan:Homo","Gemella sp. oral taxon 928","MALT","species",1785995
+145,"Homo","Veillonella parvula","MALT","species",29466

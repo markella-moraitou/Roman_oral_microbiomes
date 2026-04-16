@@ -35,7 +35,7 @@ mkdir -p $OUTDIR/ref_genomes
 
 [ ! -f $OUTDIR/ref_genomes/genome_summary.csv ] && echo "OTU,species,genome_file,genome_type" > $OUTDIR/ref_genomes/genome_summary.csv
 
-tail -n+2 ../output/mapdamage_taxa_samples.csv | while IFS=, read -r taxid species _ _
+tail -n+2 ../R_output/mapdamage_taxa_samples.csv | while IFS=, read -r taxid species _ _
 do
   cd $OUTDIR/ref_genomes
   new_species=$(echo $species | tr " " _)
@@ -66,7 +66,7 @@ done
 echo taxid,species,sample,mapped_reads > $OUTDIR/mapped_reads.csv
 
 # Map reads to the taxon genome from the sample with the highest abundance
-tail -n+2 ../output/mapdamage_taxa_samples.csv | while IFS=, read -r taxid species sample _
+tail -n+2 ../R_output/mapdamage_taxa_samples.csv | while IFS=, read -r taxid species sample _
 do  
     cd $OUTDIR
     new_species=$(echo $species | tr " " _)

@@ -1,215 +1,646 @@
-"","OTU","Blank","Abundance_in_blank","Extraction.Batch","Library.Preparation.Batch.x","species","genus","phylum","in.homd","in.core.hominid","in.contam.list","Sample","Abundance","Library.Preparation.Batch.y"
-"1","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H46",0.0647773279352227,5
-"2","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H54",0.00616386870458532,5
-"3","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H55",0.00423748764066105,5
-"4","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H48",0.00232259339790472,5
-"5","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H45",0.00188007124480507,5
-"6","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H43",0.00181494661921708,5
-"7","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H44",0.00172198191918985,5
-"8","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H47",0.00166234187479728,5
-"9","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H53",0.00157743342303053,5
-"10","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H56",0.00153130160636541,5
-"11","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H51",0.00152106812784088,5
-"12","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H52",0.00134080084917387,5
-"13","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H59",0.000951129249818421,5
-"14","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H57",0.000785331375695701,5
-"15","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H61",0.000709986108967433,5
-"16","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H49",0.000683707559630176,5
-"17","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H60",0.000521636578064048,5
-"18","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H58",0.00046264168401573,5
-"19","29382","RDC_5_EB10",1,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H50",0.000420433046037419,5
-"20","1302","RDC_2_EB3",0.428571428571429,2,2,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_2_H5",0.365790721423882,2
-"21","1302","RDC_2_EB3",0.428571428571429,2,2,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_2_H11",0.361253851911008,2
-"22","1302","RDC_2_EB3",0.428571428571429,2,2,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_2_H7",0.338855193526311,2
-"23","1302","RDC_2_EB3",0.428571428571429,2,2,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_2_H4",0.233979243776762,2
-"24","1302","RDC_2_EB3",0.428571428571429,2,2,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_2_H8",0.2264064697609,2
-"25","1302","RDC_2_EB3",0.428571428571429,2,2,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_2_H6",0.174136376112614,2
-"26","1302","RDC_2_EB3",0.428571428571429,2,2,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_2_H9",0.150904280937856,2
-"27","1302","RDC_2_EB3",0.428571428571429,2,2,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_2_H3",0.061807146838422,2
-"28","1290","RDC_1_EB2",0.333333333333333,1,1,"Staphylococcus hominis","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_1_H2",0,1
-"29","1290","RDC_1_EB2",0.333333333333333,1,1,"Staphylococcus hominis","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_1_H1",0,1
-"30","1358","RDC_1_EB2",0.333333333333333,1,1,"Lactococcus lactis","Lactococcus","Bacillota",TRUE,FALSE,TRUE,"RDC_1_H1",0.00400680070337493,1
-"31","1358","RDC_1_EB2",0.333333333333333,1,1,"Lactococcus lactis","Lactococcus","Bacillota",TRUE,FALSE,TRUE,"RDC_1_H2",0,1
-"32","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H40",0.485328638497653,4
-"33","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H26",0.355752188534036,4
-"34","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H28",0.338501833420639,4
-"35","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H25",0.33456994028713,4
-"36","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H30",0.325088339222615,4
-"37","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H41",0.230769230769231,4
-"38","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H36",0.227322644410279,4
-"39","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H27",0.216707121745017,4
-"40","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H33",0.187402799377916,4
-"41","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H31",0.164101074644206,4
-"42","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H34",0.132643884892086,4
-"43","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H32",0.0917272412599515,4
-"44","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H37",0.0890547926943074,4
-"45","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H35",0.0611246943765281,4
-"46","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H29",0.0423418714061683,4
-"47","1302","RDC_4_EB8",0.272727272727273,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H38",0.0175438596491228,4
-"48","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H40",0.485328638497653,4
-"49","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H26",0.355752188534036,4
-"50","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H28",0.338501833420639,4
-"51","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H25",0.33456994028713,4
-"52","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H30",0.325088339222615,4
-"53","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H41",0.230769230769231,4
-"54","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H36",0.227322644410279,4
-"55","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H27",0.216707121745017,4
-"56","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H33",0.187402799377916,4
-"57","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H31",0.164101074644206,4
-"58","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H34",0.132643884892086,4
-"59","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H32",0.0917272412599515,4
-"60","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H37",0.0890547926943074,4
-"61","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H35",0.0611246943765281,4
-"62","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H29",0.0423418714061683,4
-"63","1302","RDC_4_EB7",0.266666666666667,4,4,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_4_H38",0.0175438596491228,4
-"64","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H27",0.0934264625749245,4
-"65","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H25",0.0536145343666624,4
-"66","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H40",0.0374119718309859,4
-"67","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H32",0.0359986154378678,4
-"68","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H26",0.0317177380767857,4
-"69","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H36",0.0153744783659126,4
-"70","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H41",0.00917431192660551,4
-"71","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H38",0.0087719298245614,4
-"72","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H34",0.0085431654676259,4
-"73","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H37",0.00426609785361952,4
-"74","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H28",0.00290353962433585,4
-"75","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H33",0.00181441161223432,4
-"76","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H30",0.0016061676839062,4
-"77","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H31",0.000290444379901249,4
-"78","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H29",0,4
-"79","1609968","RDC_4_EB8",0.181818181818182,4,4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H35",0,4
-"80","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H38",0.342105263157895,4
-"81","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H30",0.195470607131385,4
-"82","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H36",0.165056007028333,4
-"83","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H28",0.144862680535808,4
-"84","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H37",0.143714171443807,4
-"85","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H34",0.126798561151079,4
-"86","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H33",0.0876101607050285,4
-"87","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H32",0.0823814468674282,4
-"88","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H26",0.0758253755382884,4
-"89","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H35",0.0635696821515892,4
-"90","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H25",0.0422563841951467,4
-"91","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H27",0.0364921319000677,4
-"92","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H41",0.0345800988002823,4
-"93","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H31",0.0174266627940749,4
-"94","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H29",0.00967067433350758,4
-"95","487","RDC_4_EB7",0.166666666666667,4,4,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_4_H40",0.00953638497652582,4
-"96","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H46",0.0647773279352227,5
-"97","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H54",0.00616386870458532,5
-"98","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H55",0.00423748764066105,5
-"99","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H48",0.00232259339790472,5
-"100","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H45",0.00188007124480507,5
-"101","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H43",0.00181494661921708,5
-"102","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H44",0.00172198191918985,5
-"103","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H47",0.00166234187479728,5
-"104","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H53",0.00157743342303053,5
-"105","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H56",0.00153130160636541,5
-"106","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H51",0.00152106812784088,5
-"107","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H52",0.00134080084917387,5
-"108","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H59",0.000951129249818421,5
-"109","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H57",0.000785331375695701,5
-"110","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H61",0.000709986108967433,5
-"111","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H49",0.000683707559630176,5
-"112","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H60",0.000521636578064048,5
-"113","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H58",0.00046264168401573,5
-"114","29382","RDC_5_EB9",0.136363636363636,5,5,"Staphylococcus cohnii","Staphylococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_5_H50",0.000420433046037419,5
-"115","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H23",0.44389427435665,3
-"116","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H13",0.19930387883729,3
-"117","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H16",0.170053217223029,3
-"118","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H18",0.127606239057775,3
-"119","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H12",0.120802641605283,3
-"120","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H15",0.106316598923432,3
-"121","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H22",0.0742574257425743,3
-"122","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H20",0.0695778748180495,3
-"123","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H19",0.0399005161393844,3
-"124","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H14",0.00110741971207087,3
-"125","1302","RDC_3_EB5",0.125,3,3,"Streptococcus gordonii","Streptococcus","Bacillota",TRUE,TRUE,TRUE,"RDC_3_H17",0.000591349403018698,3
-"126","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H27",0.079110318521821,4
-"127","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H25",0.0209630288400457,4
-"128","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H32",0.0204222914503288,4
-"129","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H40",0.0151115023474178,4
-"130","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H26",0.0134749000923261,4
-"131","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H36",0.0112014056665935,4
-"132","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H38",0.0087719298245614,4
-"133","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H35",0.00733496332518337,4
-"134","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H41",0.00494001411432604,4
-"135","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H34",0.00224820143884892,4
-"136","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H37",0.00186641781095854,4
-"137","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H28",0.00149666990945147,4
-"138","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H33",0.000777604976671851,4
-"139","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H30",0.00064246707356248,4
-"140","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H31",0,4
-"141","2173","RDC_4_EB8",0.0909090909090909,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H29",0,4
-"142","1609968","RDC_2_EB3",0.0714285714285714,2,2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_2_H8",0.0886603375527426,2
-"143","1609968","RDC_2_EB3",0.0714285714285714,2,2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_2_H5",0.017424684513823,2
-"144","1609968","RDC_2_EB3",0.0714285714285714,2,2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_2_H6",0.00917539113045524,2
-"145","1609968","RDC_2_EB3",0.0714285714285714,2,2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_2_H3",0.00727689354059578,2
-"146","1609968","RDC_2_EB3",0.0714285714285714,2,2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_2_H9",0.00159147860927106,2
-"147","1609968","RDC_2_EB3",0.0714285714285714,2,2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_2_H7",0.00115974736314198,2
-"148","1609968","RDC_2_EB3",0.0714285714285714,2,2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_2_H4",0.00108861310690181,2
-"149","1609968","RDC_2_EB3",0.0714285714285714,2,2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_2_H11",0.00107874414112315,2
-"150","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H52",0.0227377477339069,5
-"151","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H61",0.0208365488501312,5
-"152","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H53",0.0177229284587548,5
-"153","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H57",0.0164236692047666,5
-"154","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H51",0.0148637710036381,5
-"155","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H50",0.0138480134538575,5
-"156","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H58",0.0111805073637135,5
-"157","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H43",0.00987544483985765,5
-"158","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H48",0.00978454239968373,5
-"159","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H59",0.00944211946183378,5
-"160","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H44",0.00819991390090404,5
-"161","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H54",0.00666499624154347,5
-"162","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H49",0.00665060989822081,5
-"163","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H56",0.00663564029425011,5
-"164","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H45",0.00641533082657167,5
-"165","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H55",0.00536748434483733,5
-"166","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H47",0.0052911125527084,5
-"167","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H60",0.00315249931960446,5
-"168","699041","RDC_5_EB9",0.0454545454545455,5,5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",TRUE,FALSE,TRUE,"RDC_5_H46",0,5
-"169","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H27",0.079110318521821,4
-"170","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H25",0.0209630288400457,4
-"171","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H32",0.0204222914503288,4
-"172","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H40",0.0151115023474178,4
-"173","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H26",0.0134749000923261,4
-"174","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H36",0.0112014056665935,4
-"175","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H38",0.0087719298245614,4
-"176","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H35",0.00733496332518337,4
-"177","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H41",0.00494001411432604,4
-"178","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H34",0.00224820143884892,4
-"179","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H37",0.00186641781095854,4
-"180","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H28",0.00149666990945147,4
-"181","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H33",0.000777604976671851,4
-"182","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H30",0.00064246707356248,4
-"183","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H31",0,4
-"184","2173","RDC_4_EB7",0.0333333333333333,4,4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_4_H29",0,4
-"185","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H69",0.558250523744973,6
-"186","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H63",0.220535582912355,6
-"187","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H64",0.207151515151515,6
-"188","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H72",0.147086031452359,6
-"189","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H68",0.129606690486249,6
-"190","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H65",0.050441110501919,6
-"191","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H71",0.0240295748613678,6
-"192","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H62",0.00782427679276434,6
-"193","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H66",0.00204934184598408,6
-"194","487","RDC_6_EB12",0.0224719101123595,6,6,"Neisseria meningitidis","Neisseria","Pseudomonadota",TRUE,TRUE,FALSE,"RDC_6_H70",0.000879224674561267,6
-"195","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H70",0.155512236295399,6
-"196","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H62",0.0822386524059053,6
-"197","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H71",0.027264325323475,6
-"198","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H72",0.0212765957446809,6
-"199","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H65",0.0095413732457046,6
-"200","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H63",0.00242777968512433,6
-"201","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H68",0.0011026700367318,6
-"202","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H69",0,6
-"203","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H66",0,6
-"204","2173","RDC_6_EB12",0.0112359550561798,6,6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",TRUE,FALSE,FALSE,"RDC_6_H64",0,6
-"205","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H68",0.00728907855449982,6
-"206","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H71",0.00462107208872458,6
-"207","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H72",0.00370027752081406,6
-"208","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H65",0.00303330224079863,6
-"209","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H63",0.00284467114620629,6
-"210","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H62",0.00133993731007585,6
-"211","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H64",0.00133333333333333,6
-"212","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H70",0.00118067313441084,6
-"213","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H66",0.000281503000821989,6
-"214","652716","RDC_6_EB12",0.0112359550561798,6,6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",TRUE,TRUE,FALSE,"RDC_6_H69",0,6
+"","OTU","Blank","Abundance","Extraction.Batch","Library.Preparation.Batch.x","species","genus","phylum","rank_in_blank","in.homd","in.core.hominid","in.contam.list","Sample","rank_in_sample","Library.Preparation.Batch.y"
+"1","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H26",1,4
+"2","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H28",1,4
+"3","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H25",1,4
+"4","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H27",1,4
+"5","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H40",1,4
+"6","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H36",1,4
+"7","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H30",1,4
+"8","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H31",1,4
+"9","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H33",1,4
+"10","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H37",2,4
+"11","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H41",1,4
+"12","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H29",6,4
+"13","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H34",1,4
+"14","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H32",1,4
+"15","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H35",2,4
+"16","1302","RDC_4_EB7",8,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H38",5,4
+"17","1302","RDC_2_EB3",6,"2",2,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_2_H11",1,2
+"18","1302","RDC_2_EB3",6,"2",2,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_2_H5",1,2
+"19","1302","RDC_2_EB3",6,"2",2,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_2_H7",1,2
+"20","1302","RDC_2_EB3",6,"2",2,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_2_H9",1,2
+"21","1302","RDC_2_EB3",6,"2",2,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_2_H6",2,2
+"22","1302","RDC_2_EB3",6,"2",2,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_2_H8",1,2
+"23","1302","RDC_2_EB3",6,"2",2,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_2_H4",1,2
+"24","1302","RDC_2_EB3",6,"2",2,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_2_H3",1,2
+"25","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H26",2,4
+"26","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H28",2,4
+"27","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H27",5,4
+"28","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H25",3,4
+"29","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H36",2,4
+"30","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H30",2,4
+"31","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H37",1,4
+"32","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H33",2,4
+"33","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H34",2,4
+"34","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H32",2,4
+"35","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H40",16,4
+"36","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H31",12,4
+"37","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H29",23,4
+"38","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H41",4,4
+"39","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H38",1,4
+"40","487","RDC_4_EB7",5,"4",4,"Neisseria meningitidis","Neisseria","Pseudomonadota",2,TRUE,TRUE,FALSE,"RDC_4_H35",1,4
+"41","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H26",1,4
+"42","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H28",1,4
+"43","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H25",1,4
+"44","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H27",1,4
+"45","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H40",1,4
+"46","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H36",1,4
+"47","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H30",1,4
+"48","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H31",1,4
+"49","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H33",1,4
+"50","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H37",2,4
+"51","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H41",1,4
+"52","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H29",6,4
+"53","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H34",1,4
+"54","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H32",1,4
+"55","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H35",2,4
+"56","1302","RDC_4_EB8",3,"4",4,"Streptococcus gordonii","Streptococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_4_H38",5,4
+"57","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H55",33,5
+"58","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H51",82,5
+"59","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H44",65,5
+"60","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H54",35,5
+"61","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H45",55,5
+"62","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H43",83,5
+"63","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H52",87,5
+"64","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H47",56,5
+"65","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H59",85,5
+"66","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H56",77,5
+"67","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H48",53,5
+"68","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H49",104,5
+"69","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H58",134,5
+"70","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H53",68,5
+"71","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H46",2,5
+"72","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H57",89,5
+"73","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H61",87,5
+"74","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H60",105,5
+"75","29382","RDC_5_EB9",3,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_5_H50",116,5
+"76","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H26",4,4
+"77","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H27",2,4
+"78","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H25",2,4
+"79","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H40",2,4
+"80","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H28",48,4
+"81","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H36",8,4
+"82","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H32",4,4
+"83","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H37",36,4
+"84","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H34",22,4
+"85","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H41",22,4
+"86","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H30",41,4
+"87","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H33",42,4
+"88","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H31",54,4
+"89","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H38",6,4
+"90","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H29",64,4
+"91","1609968","RDC_4_EB8",2,"4",4,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",2,TRUE,FALSE,FALSE,"RDC_4_H35",18,4
+"92","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H55",33,5
+"93","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H51",82,5
+"94","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H44",65,5
+"95","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H54",35,5
+"96","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H45",55,5
+"97","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H43",83,5
+"98","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H52",87,5
+"99","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H47",56,5
+"100","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H59",85,5
+"101","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H56",77,5
+"102","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H48",53,5
+"103","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H49",104,5
+"104","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H58",134,5
+"105","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H53",68,5
+"106","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H46",2,5
+"107","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H57",89,5
+"108","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H61",87,5
+"109","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H60",105,5
+"110","29382","RDC_5_EB10",2,"5",5,"Staphylococcus cohnii","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_5_H50",116,5
+"111","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H69",1,6
+"112","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H68",1,6
+"113","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H63",1,6
+"114","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H65",1,6
+"115","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H64",1,6
+"116","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H62",23,6
+"117","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H72",2,6
+"118","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H66",69,6
+"119","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H70",75,6
+"120","487","RDC_6_EB12",2,"6",6,"Neisseria meningitidis","Neisseria","Pseudomonadota",6,TRUE,TRUE,FALSE,"RDC_6_H71",7,6
+"121","1290","RDC_1_EB2",1,"1",1,"Staphylococcus hominis","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_1_H2",28,1
+"122","1290","RDC_1_EB2",1,"1",1,"Staphylococcus hominis","Staphylococcus","Bacillota",1,TRUE,TRUE,TRUE,"RDC_1_H1",179,1
+"123","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H23",1,3
+"124","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H13",1,3
+"125","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H15",1,3
+"126","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H18",2,3
+"127","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H12",1,3
+"128","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H19",4,3
+"129","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H20",1,3
+"130","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H16",1,3
+"131","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H17",108,3
+"132","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H22",1,3
+"133","1302","RDC_3_EB5",1,"3",3,"Streptococcus gordonii","Streptococcus","Bacillota",2,TRUE,TRUE,TRUE,"RDC_3_H14",54,3
+"134","1358","RDC_1_EB2",1,"1",1,"Lactococcus lactis","Lactococcus","Bacillota",1,TRUE,FALSE,TRUE,"RDC_1_H1",24,1
+"135","1358","RDC_1_EB2",1,"1",1,"Lactococcus lactis","Lactococcus","Bacillota",1,TRUE,FALSE,TRUE,"RDC_1_H2",28,1
+"136","1609968","RDC_2_EB3",1,"2",2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",4,TRUE,FALSE,FALSE,"RDC_2_H8",3,2
+"137","1609968","RDC_2_EB3",1,"2",2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",4,TRUE,FALSE,FALSE,"RDC_2_H5",5,2
+"138","1609968","RDC_2_EB3",1,"2",2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",4,TRUE,FALSE,FALSE,"RDC_2_H3",29,2
+"139","1609968","RDC_2_EB3",1,"2",2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",4,TRUE,FALSE,FALSE,"RDC_2_H6",20,2
+"140","1609968","RDC_2_EB3",1,"2",2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",4,TRUE,FALSE,FALSE,"RDC_2_H11",64,2
+"141","1609968","RDC_2_EB3",1,"2",2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",4,TRUE,FALSE,FALSE,"RDC_2_H9",72,2
+"142","1609968","RDC_2_EB3",1,"2",2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",4,TRUE,FALSE,FALSE,"RDC_2_H7",60,2
+"143","1609968","RDC_2_EB3",1,"2",2,"Methanobrevibacter sp. YE315","Methanobrevibacter","Euryarchaeota",4,TRUE,FALSE,FALSE,"RDC_2_H4",82,2
+"144","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H27",3,4
+"145","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H26",9,4
+"146","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H25",11,4
+"147","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H40",9,4
+"148","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H36",18,4
+"149","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H28",69,4
+"150","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H32",13,4
+"151","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H37",48,4
+"152","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H41",28,4
+"153","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H34",35,4
+"154","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H30",47,4
+"155","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H35",15,4
+"156","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H33",46,4
+"157","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H38",6,4
+"158","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H31",56,4
+"159","2173","RDC_4_EB8",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",3,TRUE,FALSE,FALSE,"RDC_4_H29",64,4
+"160","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H27",3,4
+"161","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H26",9,4
+"162","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H25",11,4
+"163","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H40",9,4
+"164","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H36",18,4
+"165","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H28",69,4
+"166","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H32",13,4
+"167","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H37",48,4
+"168","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H41",28,4
+"169","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H34",35,4
+"170","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H30",47,4
+"171","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H35",15,4
+"172","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H33",46,4
+"173","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H38",6,4
+"174","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H31",56,4
+"175","2173","RDC_4_EB7",1,"4",4,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",5,TRUE,FALSE,FALSE,"RDC_4_H29",64,4
+"176","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H70",1,6
+"177","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H62",4,6
+"178","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H65",28,6
+"179","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H68",103,6
+"180","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H63",55,6
+"181","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H71",6,6
+"182","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H72",8,6
+"183","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H69",172,6
+"184","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H66",191,6
+"185","2173","RDC_6_EB12",1,"6",6,"Methanobrevibacter smithii","Methanobrevibacter","Euryarchaeota",7,TRUE,FALSE,FALSE,"RDC_6_H64",61,6
+"186","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H68",28,6
+"187","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H65",57,6
+"188","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H70",65,6
+"189","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H63",49,6
+"190","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H62",66,6
+"191","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H66",179,6
+"192","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H64",50,6
+"193","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H71",26,6
+"194","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H72",29,6
+"195","652716","RDC_6_EB12",1,"6",6,"Prevotella sp. oral taxon 299","Prevotella","Bacteroidota",7,TRUE,TRUE,FALSE,"RDC_6_H69",172,6
+"196","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H51",15,5
+"197","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H52",12,5
+"198","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H58",17,5
+"199","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H44",27,5
+"200","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H61",9,5
+"201","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H43",27,5
+"202","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H59",22,5
+"203","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H50",20,5
+"204","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H57",13,5
+"205","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H49",22,5
+"206","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H45",26,5
+"207","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H53",14,5
+"208","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H47",27,5
+"209","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H55",24,5
+"210","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H56",33,5
+"211","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H48",24,5
+"212","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H60",51,5
+"213","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H54",33,5
+"214","699041","RDC_5_EB9",1,"5",5,"Corynebacterium hindlerae","Corynebacterium","Actinomycetota",4,TRUE,FALSE,TRUE,"RDC_5_H46",19,5
+"215","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_1_H1",1,1
+"216","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H69",2,6
+"217","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_2_H11",2,2
+"218","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H23",2,3
+"219","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_2_H7",2,2
+"220","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H70",2,6
+"221","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_2_H5",2,2
+"222","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H44",1,5
+"223","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H47",1,5
+"224","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H49",1,5
+"225","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_2_H9",2,2
+"226","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H45",1,5
+"227","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_2_H6",1,2
+"228","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H68",2,6
+"229","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H51",1,5
+"230","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H13",2,3
+"231","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H18",1,3
+"232","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H45",2,5
+"233","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_1_H1",3,1
+"234","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H59",1,5
+"235","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H58",1,5
+"236","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H61",1,5
+"237","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H19",1,3
+"238","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H63",2,6
+"239","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H49",2,5
+"240","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H55",1,5
+"241","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_2_H8",2,2
+"242","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H19",2,3
+"243","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H59",2,5
+"244","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H51",2,5
+"245","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H58",2,5
+"246","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H65",4,6
+"247","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H13",3,3
+"248","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H62",1,6
+"249","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H13",4,3
+"250","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_2_H8",5,2
+"251","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H55",2,5
+"252","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H44",2,5
+"253","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H55",4,5
+"254","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H47",2,5
+"255","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H62",3,6
+"256","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H50",1,5
+"257","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H43",1,5
+"258","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H65",10,6
+"259","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H56",2,5
+"260","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H48",1,5
+"261","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H43",2,5
+"262","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H61",2,5
+"263","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H26",15,4
+"264","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H52",3,5
+"265","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_2_H3",8,2
+"266","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H68",10,6
+"267","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H52",7,5
+"268","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H15",2,3
+"269","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H48",2,5
+"270","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_2_H9",12,2
+"271","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H59",3,5
+"272","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H12",2,3
+"273","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_1_H1",19,1
+"274","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H15",3,3
+"275","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H55",6,5
+"276","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H59",4,5
+"277","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_2_H7",11,2
+"278","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_2_H5",20,2
+"279","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_1_H2",1,1
+"280","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H54",1,5
+"281","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H56",3,5
+"282","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H26",28,4
+"283","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H65",22,6
+"284","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_2_H5",25,2
+"285","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H51",17,5
+"286","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H64",2,6
+"287","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_2_H3",16,2
+"288","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_2_H11",18,2
+"289","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H70",20,6
+"290","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H43",11,5
+"291","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H44",15,5
+"292","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H17",8,3
+"293","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H13",26,3
+"294","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H44",20,5
+"295","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_2_H4",2,2
+"296","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H69",38,6
+"297","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_1_H2",2,1
+"298","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_1_H1",42,1
+"299","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H52",21,5
+"300","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H20",6,3
+"301","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H45",13,5
+"302","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H50",12,5
+"303","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H54",5,5
+"304","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H53",10,5
+"305","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_2_H9",41,2
+"306","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_1_H1",46,1
+"307","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H61",11,5
+"308","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H56",13,5
+"309","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H43",26,5
+"310","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_2_H5",46,2
+"311","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_1_H1",48,1
+"312","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_2_H6",25,2
+"313","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H20",10,3
+"314","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H51",40,5
+"315","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H53",11,5
+"316","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H15",17,3
+"317","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H26",62,4
+"318","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H47",13,5
+"319","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_2_H11",43,2
+"320","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H63",17,6
+"321","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H27",22,4
+"322","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H72",1,6
+"323","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H17",18,3
+"324","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H56",18,5
+"325","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H69",63,6
+"326","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H71",1,6
+"327","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H28",26,4
+"328","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_1_H1",61,1
+"329","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H17",19,3
+"330","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H68",58,6
+"331","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_2_H5",60,2
+"332","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H23",31,3
+"333","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_2_H8",20,2
+"334","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H66",43,6
+"335","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H63",23,6
+"336","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H57",18,5
+"337","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H69",79,6
+"338","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H48",13,5
+"339","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H25",22,4
+"340","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H57",19,5
+"341","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_2_H4",22,2
+"342","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H26",88,4
+"343","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H45",33,5
+"344","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H62",26,6
+"345","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H51",57,5
+"346","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H19",18,3
+"347","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H44",49,5
+"348","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H20",17,3
+"349","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H52",45,5
+"350","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_2_H6",49,2
+"351","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_2_H3",61,2
+"352","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H60",32,5
+"353","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H28",39,4
+"354","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H20",18,3
+"355","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H13",63,3
+"356","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_2_H5",74,2
+"357","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_2_H6",50,2
+"358","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_2_H4",26,2
+"359","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H12",18,3
+"360","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H58",45,5
+"361","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H43",50,5
+"362","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H61",26,5
+"363","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_2_H3",73,2
+"364","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_2_H11",78,2
+"365","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H47",33,5
+"366","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_2_H7",69,2
+"367","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H71",2,6
+"368","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H48",25,5
+"369","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H15",40,3
+"370","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_2_H7",77,2
+"371","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H56",43,5
+"372","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H23",56,3
+"373","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H49",52,5
+"374","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H23",58,3
+"375","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H23",59,3
+"376","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H13",88,3
+"377","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H47",41,5
+"378","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H64",8,6
+"379","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H37",15,4
+"380","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H59",49,5
+"381","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H52",68,5
+"382","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H16",8,3
+"383","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H48",32,5
+"384","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_2_H9",108,2
+"385","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H44",79,5
+"386","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_2_H7",84,2
+"387","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H61",41,5
+"388","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H65",129,6
+"389","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H70",101,6
+"390","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H60",57,5
+"391","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H70",110,6
+"392","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H27",55,4
+"393","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H68",129,6
+"394","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H58",87,5
+"395","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_2_H9",131,2
+"396","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_2_H11",120,2
+"397","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H12",37,3
+"398","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H57",39,5
+"399","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H13",109,3
+"400","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H17",57,3
+"401","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_2_H9",136,2
+"402","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H25",44,4
+"403","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H17",58,3
+"404","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_2_H11",128,2
+"405","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H72",3,6
+"406","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H62",54,6
+"407","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H30",9,4
+"408","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H36",21,4
+"409","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_2_H6",92,2
+"410","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H57",44,5
+"411","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H31",15,4
+"412","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H68",141,6
+"413","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_2_H8",51,2
+"414","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H45",69,5
+"415","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H29",23,4
+"416","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H50",70,5
+"417","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H58",103,5
+"418","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_2_H3",130,2
+"419","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H45",71,5
+"420","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_2_H7",117,2
+"421","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H15",67,3
+"422","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H17",70,3
+"423","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H28",83,4
+"424","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H51",138,5
+"425","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_2_H6",102,2
+"426","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H28",84,4
+"427","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H27",71,4
+"428","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H19",49,3
+"429","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H12",49,3
+"430","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H55",69,5
+"431","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H40",29,4
+"432","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H25",59,4
+"433","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H47",70,5
+"434","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H16",17,3
+"435","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H53",53,5
+"436","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H14",22,3
+"437","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_6_H66",155,6
+"438","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_2_H4",65,2
+"439","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H16",20,3
+"440","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H50",87,5
+"441","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H40",33,4
+"442","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H27",81,4
+"443","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H49",106,5
+"444","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H32",18,4
+"445","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H62",78,6
+"446","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H63",88,6
+"447","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H15",91,3
+"448","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H14",28,3
+"449","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H16",24,3
+"450","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H34",12,4
+"451","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H29",36,4
+"452","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_2_H8",76,2
+"453","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H53",68,5
+"454","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_2_H8",79,2
+"455","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H63",97,6
+"456","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H66",174,6
+"457","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H23",102,3
+"458","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H19",68,3
+"459","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H57",83,5
+"460","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H33",25,4
+"461","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H46",3,5
+"462","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H30",26,4
+"463","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H12",67,3
+"464","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H18",55,3
+"465","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H19",72,3
+"466","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_2_H3",174,2
+"467","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_2_H4",88,2
+"468","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H52",146,5
+"469","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H54",75,5
+"470","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H36",48,4
+"471","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H49",126,5
+"472","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H50",112,5
+"473","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H20",71,3
+"474","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H12",73,3
+"475","1302",NA,NA,"other",NA,"Streptococcus gordonii",NA,NA,NA,NA,NA,NA,"RDC_5_H60",109,5
+"476","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H40",49,4
+"477","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H71",20,6
+"478","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H16",35,3
+"479","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H55",105,5
+"480","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H37",47,4
+"481","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_2_H6",146,2
+"482","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H18",67,3
+"483","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H32",34,4
+"484","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H36",56,4
+"485","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H59",125,5
+"486","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_6_H72",24,6
+"487","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H54",86,5
+"488","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_2_H4",101,2
+"489","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H20",80,3
+"490","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H56",115,5
+"491","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H20",81,3
+"492","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H58",160,5
+"493","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H60",118,5
+"494","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H49",137,5
+"495","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H64",51,6
+"496","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H34",30,4
+"497","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H41",26,4
+"498","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H43",156,5
+"499","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H54",90,5
+"500","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H53",94,5
+"501","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H30",43,4
+"502","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H41",27,4
+"503","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H64",54,6
+"504","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H19",90,3
+"505","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_1_H2",21,1
+"506","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H22",7,3
+"507","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H31",50,4
+"508","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H36",63,4
+"509","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H14",55,3
+"510","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H16",45,3
+"511","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H18",76,3
+"512","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H33",44,4
+"513","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H61",106,5
+"514","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_1_H2",24,1
+"515","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H18",77,3
+"516","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_1_H2",24,1
+"517","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_5_H46",15,5
+"518","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H31",52,4
+"519","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H35",14,4
+"520","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H33",46,4
+"521","487",NA,NA,"other",NA,"Neisseria meningitidis",NA,NA,NA,NA,NA,NA,"RDC_3_H22",9,3
+"522","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H14",58,3
+"523","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_1_H2",25,1
+"524","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H37",60,4
+"525","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H41",33,4
+"526","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_1_H2",26,1
+"527","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H22",11,3
+"528","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H32",46,4
+"529","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H35",17,4
+"530","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_5_H46",18,5
+"531","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_3_H22",11,3
+"532","699041",NA,NA,"other",NA,"Corynebacterium hindlerae",NA,NA,NA,NA,NA,NA,"RDC_4_H38",6,4
+"533","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H62",113,6
+"534","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H54",96,5
+"535","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H52",162,5
+"536","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H51",184,5
+"537","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H14",61,3
+"538","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H23",113,3
+"539","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H22",12,3
+"540","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_2_H3",187,2
+"541","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H50",128,5
+"542","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H18",78,3
+"543","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_2_H9",199,2
+"544","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_2_H5",193,2
+"545","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H17",125,3
+"546","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_2_H7",157,2
+"547","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H43",158,5
+"548","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_2_H8",105,2
+"549","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H25",104,4
+"550","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H31",56,4
+"551","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H32",47,4
+"552","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H45",126,5
+"553","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H33",49,4
+"554","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H20",89,3
+"555","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H48",92,5
+"556","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H37",62,4
+"557","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_2_H4",109,2
+"558","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H29",64,4
+"559","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H56",122,5
+"560","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H28",132,4
+"561","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H27",119,4
+"562","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H71",36,6
+"563","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H26",215,4
+"564","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H41",35,4
+"565","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H60",123,5
+"566","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H63",123,6
+"567","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H36",68,4
+"568","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H47",112,5
+"569","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H16",51,3
+"570","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H64",61,6
+"571","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H65",214,6
+"572","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H69",172,6
+"573","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H68",202,6
+"574","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H38",7,4
+"575","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H58",161,5
+"576","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H44",171,5
+"577","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H40",66,4
+"578","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H72",37,6
+"579","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H15",126,3
+"580","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_2_H11",181,2
+"581","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H49",140,5
+"582","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H34",40,4
+"583","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H46",19,5
+"584","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H70",178,6
+"585","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_6_H66",191,6
+"586","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H53",100,5
+"587","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H57",109,5
+"588","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H61",107,5
+"589","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H35",18,4
+"590","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H59",132,5
+"591","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H12",91,3
+"592","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H13",177,3
+"593","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_5_H55",116,5
+"594","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_4_H30",51,4
+"595","1290",NA,NA,"other",NA,"Staphylococcus hominis",NA,NA,NA,NA,NA,NA,"RDC_3_H19",93,3
+"596","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H32",47,4
+"597","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H46",19,5
+"598","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H22",12,3
+"599","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H72",37,6
+"600","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H48",92,5
+"601","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H70",178,6
+"602","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H34",40,4
+"603","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H57",109,5
+"604","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H29",64,4
+"605","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H18",78,3
+"606","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H33",49,4
+"607","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H41",35,4
+"608","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H16",51,3
+"609","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H60",123,5
+"610","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H14",61,3
+"611","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H31",56,4
+"612","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H54",96,5
+"613","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H53",100,5
+"614","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H65",214,6
+"615","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H35",18,4
+"616","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H23",113,3
+"617","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H40",66,4
+"618","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H17",125,3
+"619","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_5_H50",128,5
+"620","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H15",126,3
+"621","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H25",104,4
+"622","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H37",62,4
+"623","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H66",191,6
+"624","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_6_H71",36,6
+"625","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H38",7,4
+"626","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_4_H30",51,4
+"627","1358",NA,NA,"other",NA,"Lactococcus lactis",NA,NA,NA,NA,NA,NA,"RDC_3_H12",91,3
+"628","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_5_H46",19,5
+"629","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H64",61,6
+"630","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H18",78,3
+"631","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_3_H14",61,3
+"632","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H69",172,6
+"633","1609968",NA,NA,"other",NA,"Methanobrevibacter sp. YE315",NA,NA,NA,NA,NA,NA,"RDC_6_H66",191,6
+"634","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H46",19,5
+"635","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_5_H60",123,5
+"636","2173",NA,NA,"other",NA,"Methanobrevibacter smithii",NA,NA,NA,NA,NA,NA,"RDC_3_H14",61,3
+"637","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_3_H22",12,3
+"638","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H71",36,6
+"639","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H38",7,4
+"640","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_6_H72",37,6
+"641","29382",NA,NA,"other",NA,"Staphylococcus cohnii",NA,NA,NA,NA,NA,NA,"RDC_4_H34",40,4
+"642","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H29",64,4
+"643","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H35",18,4
+"644","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_4_H38",7,4
+"645","652716",NA,NA,"other",NA,"Prevotella sp. oral taxon 299",NA,NA,NA,NA,NA,NA,"RDC_3_H22",12,3

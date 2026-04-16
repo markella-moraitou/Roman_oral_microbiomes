@@ -126,17 +126,17 @@ ranks_in_samples <- blank_oral %>%
   # when an abundance is not from a sample within the relevant batches group as other
   mutate(Extraction.Batch = case_when(is.na(Blank) ~ "other", TRUE ~ as.character(Extraction.Batch)))
 
-write.csv(blank_oral_abundances, file.path("..", "R_output", "oral_taxa_in_blanks.csv"))
+write.csv(ranks_in_samples, file.path("..", "R_output", "oral_taxa_in_blanks.csv"))
 
 ggplot(data = ranks_in_samples, aes(x = paste("batch", Extraction.Batch), y = rank_in_sample)) +
   geom_jitter(alpha = 0.8, width = 0.2) +
-  geom_point(data = blank_oral, size = 3, colour = "orange", aes(x = paste("batch", Extraction.Batch), y = rank_in_blank)) +
+  geom_point(data = blank_oral, size = 3, alpha = 0.8, colour = "orange", aes(x = paste("batch", Extraction.Batch), y = rank_in_blank)) +
   facet_wrap(~ species, scales = "free") +
   scale_y_reverse() +
   xlab("Extraction batch") + ylab("Abundance rank") +
   theme_classic()
 
-ggsave(filename = file.path("..", "R_output", "oral_taxa_in_blanks.png"), width = 16, height = 15, units = "cm")
+ggsave(filename = file.path("..", "R_output", "oral_taxa_in_blanks.png"), width = 20, height = 15, units = "cm")
 
 # RUN FEAST ---------------------------------------------------------------
 # important to define what the proportions are here... proportion of taxa present in the original dataset? otherwise 
@@ -469,7 +469,7 @@ perm2 <- adonis2(abund ~ Reads + Health + Necropolis,
                 method = "euclidean", na.action = na.omit, nperm = 100, by = "margin")
 perm2
 
-# DIFFERENTIAL ABUNDANCE ANALYSIS -------------------------
+# DIFFERENTIAL ABUNDANCE ANALYSIS WITHOUT CARIES -------------------------
 
 # group_var
 # used to detect structural zeros
@@ -599,6 +599,44 @@ ggsave(file=file.path("..", "R_output", "ancom_plot.png"), width=10, height=7)
 
 ps.res %>% group_by(species) %>% summarise(mean = mean(Abundance[Abundance!=0])*100,
                                                        prevalence=sum(Abundance != 0)/n_distinct(Sample))
+
+# DIFFERENTIAL ABUNDANCE ANALYSIS WITH CARIES -------------------------
+
+# group_var
+# used to detect structural zeros
+# out_cut
+# default is 0.05
+# if zero counts make up of less than 5% of the proposed Gaussian mixture model,
+# it will be detected as outlier zeros and replaced with NA.
+# If you believe your dataset is exempt from erroneous data entries, you can also specify out_cut = 0 to disable this detection.
+# zero_cut
+# used for filtering non-informative taxa
+# with 100 samples and zero_cut = 0.90 (default value), taxa with more than 90 zero entries out of 100 taxa will be discarded
+# lib_cut
+# used for filtering samples
+# with lib_cut = 1000, any samples with library size (total observed counts) less than 1000 will be discarded.
+# library size varies a lot across different studies, some may have a lot of samples with library size less than 1000.
+# In such cases, sticking with the default value will lose a lot of power.
+# If you do not want to filter out any sample based on library sizes, you can simply set lib_cut = 0 to disable this function.
+
+# Run ANCOM-BC for comparing LF and IS
+ps.ancom <- ps %>% subset_samples(Tooth.health %in% c("Healthy", "Caries"))
+ps.ancom <- ps.ancom %>% subset_taxa(taxa_sums(ps.ancom) > 0)
+
+if (file.exists(file.path("..", "R_output", "out.rds"))) {
+  out_caries <- readRDS(file = file.path("..", "R_output", "out_caries.rds"))
+} else {
+  out_caries <- ancombc2(data = ps.ancom,
+                  fix_formula = "Tooth.health", # Here you add in the form of a formula your variable of interest (Necropolis) and maybe other variables you want to account for
+                  tax_level = "species", # You can change this to other levels in your phyloseq. Make sure to spell it how it is in your phyloseq (e.g. species not Species). If you go above family it recommended to change neg_l (below) to TRUE
+                  p_adj_method = "BH", prv_cut = 0, # Some parameters. prv_cut=0.10 means that taxa found in less than 10% of samples are ignored
+                  group="Tooth.health",
+                  struc_zero = TRUE,
+                  lib_cut = 1000,
+                  verbose = TRUE)
+  
+  saveRDS(out, file = file.path("..", "R_output", "out_caries.rds"))
+}
 
 # IDENTIFY TAXA TO RUN MAP DAMAGE ON ------------------------------------------
 
